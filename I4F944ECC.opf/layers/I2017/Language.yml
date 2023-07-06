@@ -1,0 +1,99 @@
+id: e1b3e6ce2e6543ce982bee17ba864c6e
+annotation_type: Language
+revision: '00001'
+annotations:
+  92b1e8f4d5b44bf9a29b9764a624e1db:
+    span:
+      start: 0
+      end: 150
+    language: en
+  141d74fbbd454a9ea17da981a6c3c2c0:
+    span:
+      start: 189
+      end: 639
+    language: en
+  fb00ec96c1604bb28d101e6b5bb8153e:
+    span:
+      start: 34025
+      end: 34048
+    language: en
+  d10367dc568741e7ae5532522a2b43fb:
+    span:
+      start: 206203
+      end: 206231
+    language: en
+  0f84871bf5b54d00ad9a027661c8f93f:
+    span:
+      start: 270393
+      end: 270435
+    language: en
+  b1a781686c4a4cae883d1aed29cb9da9:
+    span:
+      start: 329411
+      end: 329454
+    language: en
+  2c81be35ff7f4fbbae634d67dc0a92b1:
+    span:
+      start: 441377
+      end: 441416
+    language: en
+  d65b12591e2f4b0fb3587043df86ad33:
+    span:
+      start: 512133
+      end: 512154
+    language: en
+  f42ebb28c9884d97bbbc066b1479fcf3:
+    span:
+      start: 837619
+      end: 837647
+    language: en
+  d92585ad55c044fda6b2a76a7faca42c:
+    span:
+      start: 907474
+      end: 907515
+    language: en
+  cd5b3aaaaa7d4aff9c0a1ae2e8219e14:
+    span:
+      start: 948741
+      end: 948769
+    language: en
+  d6e4b659214446ba83bbb24e81c597ea:
+    span:
+      start: 997036
+      end: 997096
+    language: en
+  bdb2cb41be314382ace500c7985b50ec:
+    span:
+      start: 1124426
+      end: 1124460
+    language: en
+  fd75d941554c4f21a3457dd71af94cdd:
+    span:
+      start: 1127153
+      end: 1127246
+    language: en
+  de41618a181749f4aee1918ec59a8380:
+    span:
+      start: 1248115
+      end: 1248281
+    language: en
+  2c7e62d845654a34832b83cc284da5d5:
+    span:
+      start: 1248309
+      end: 1250641
+    language: en
+  4bbc15584e61488e87064f093d39d867:
+    span:
+      start: 1250680
+      end: 1250789
+    language: en
+  1800e1bb077e461d9a1a3d63d49ee466:
+    span:
+      start: 1250886
+      end: 1250953
+    language: en
+  3ac0cccb18254bc597fb973a2ccd8886:
+    span:
+      start: 1250982
+      end: 1251521
+    language: en

@@ -1,0 +1,4594 @@
+id: c3ae8193324e48b69d4a20f51b09c870
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  ad9e313a1a8e488eb963590dea1eaacf:
+    span:
+      start: 0
+      end: 234
+    imgnum: 1
+    reference: 20050001.tiff
+  b0d5cb6129724d8483e169eb40307bba:
+    span:
+      start: 235
+      end: 640
+    imgnum: 2
+    reference: 20050002.tiff
+  eee6a9aeb7a04af69e321f8c0d1d5b3d:
+    span:
+      start: 641
+      end: 725
+    imgnum: 3
+    reference: 20050003.tiff
+  6bc60e6bce7b47ad88cff1a64748e47d:
+    span:
+      start: 726
+      end: 1196
+    imgnum: 4
+    reference: 20050004.tiff
+  9caebd55ca0c4e94a8f6afea7624cafb:
+    span:
+      start: 1197
+      end: 1793
+    imgnum: 5
+    reference: 20050005.tiff
+  a02ec3cbf8ac4fcf946b65400523b51d:
+    span:
+      start: 1794
+      end: 2985
+    imgnum: 6
+    reference: 20050006.tiff
+  d137e7d79d9749d483bbada91d2ffc6c:
+    span:
+      start: 2986
+      end: 4229
+    imgnum: 7
+    reference: 20050007.tiff
+  c3db2177c2da46f2b7e430aa6975ac80:
+    span:
+      start: 4230
+      end: 5378
+    imgnum: 8
+    reference: 20050008.tiff
+  275c2b7bc376409aa050838b96168fda:
+    span:
+      start: 5379
+      end: 6521
+    imgnum: 9
+    reference: 20050009.tiff
+  1f3efb395cec4a9d8a3a06e67a28a6ea:
+    span:
+      start: 6522
+      end: 7665
+    imgnum: 10
+    reference: 20050010.tiff
+  cf27eead9a854dab98c5107e7bfd6691:
+    span:
+      start: 7666
+      end: 8761
+    imgnum: 11
+    reference: 20050011.tiff
+  b54b7e53172e4302b03312262d92510a:
+    span:
+      start: 8762
+      end: 9932
+    imgnum: 12
+    reference: 20050012.tiff
+  ea747cae59234637910dde4e447d4260:
+    span:
+      start: 9933
+      end: 11098
+    imgnum: 13
+    reference: 20050013.tiff
+  2d40aec7ba4c4b91a846cd74d570eacc:
+    span:
+      start: 11099
+      end: 12264
+    imgnum: 14
+    reference: 20050014.tiff
+  72fdc9197143408ab007484d9310853c:
+    span:
+      start: 12265
+      end: 13447
+    imgnum: 15
+    reference: 20050015.tiff
+  a790adf8668248d1bffdc66c1e870cb3:
+    span:
+      start: 13448
+      end: 14659
+    imgnum: 16
+    reference: 20050016.tiff
+  8eeaf35d3aa04a6b983bf34a01de4cb4:
+    span:
+      start: 14660
+      end: 15785
+    imgnum: 17
+    reference: 20050017.tiff
+  318ffd9eebc34bb7b8a2439b989d2eb7:
+    span:
+      start: 15786
+      end: 16653
+    imgnum: 18
+    reference: 20050018.tiff
+  b461a8f5b17f4e37b8cc51c9153c472c:
+    span:
+      start: 16654
+      end: 17747
+    imgnum: 19
+    reference: 20050019.tiff
+  5b864236e52a4f939527b54fd1fc43a1:
+    span:
+      start: 17748
+      end: 18789
+    imgnum: 20
+    reference: 20050020.tiff
+  77bed16f91764914ade8d4374b5f430f:
+    span:
+      start: 18790
+      end: 19846
+    imgnum: 21
+    reference: 20050021.tiff
+  4b0085b629554fba933799cc9b332be7:
+    span:
+      start: 19847
+      end: 20838
+    imgnum: 22
+    reference: 20050022.tiff
+  5c3260d68ec348c4b133196d0f736a58:
+    span:
+      start: 20839
+      end: 21947
+    imgnum: 23
+    reference: 20050023.tiff
+  262388fbc9484d9da65385decc427b7c:
+    span:
+      start: 21948
+      end: 23028
+    imgnum: 24
+    reference: 20050024.tiff
+  793d859ed2cc43dfbcc823d23caee6cc:
+    span:
+      start: 23029
+      end: 24127
+    imgnum: 25
+    reference: 20050025.tiff
+  a803e218fbcc4eea9cb28e8eb8aa7dc4:
+    span:
+      start: 24128
+      end: 25304
+    imgnum: 26
+    reference: 20050026.tiff
+  c367613d16f746f1bfeaf4fcba24f360:
+    span:
+      start: 25305
+      end: 26452
+    imgnum: 27
+    reference: 20050027.tiff
+  9c86e7ee61764acfad69a80a593e77a7:
+    span:
+      start: 26453
+      end: 27590
+    imgnum: 28
+    reference: 20050028.tiff
+  5565ec8b5a0d4f9396e627714d07ec06:
+    span:
+      start: 27591
+      end: 28711
+    imgnum: 29
+    reference: 20050029.tiff
+  6e77834d8d924c4bbafe0d01c50f014d:
+    span:
+      start: 28712
+      end: 29802
+    imgnum: 30
+    reference: 20050030.tiff
+  961d9d2596974e3faa7252ec74b8fd98:
+    span:
+      start: 29803
+      end: 30982
+    imgnum: 31
+    reference: 20050031.tiff
+  63456aaeb933474c92b858a8a5ae043f:
+    span:
+      start: 30983
+      end: 32113
+    imgnum: 32
+    reference: 20050032.tiff
+  fbd1a968db404091bc93aa5895e7aa1e:
+    span:
+      start: 32114
+      end: 33291
+    imgnum: 33
+    reference: 20050033.tiff
+  acbd5defb3ca42aa97b58acd6a296695:
+    span:
+      start: 33292
+      end: 34460
+    imgnum: 34
+    reference: 20050034.tiff
+  fadf4418433045e4a6465f32ce291e4c:
+    span:
+      start: 34461
+      end: 35604
+    imgnum: 35
+    reference: 20050035.tiff
+  fdb7e92f5d9b4707b9531269bd42a4e1:
+    span:
+      start: 35605
+      end: 36651
+    imgnum: 36
+    reference: 20050036.tiff
+  821673a5458a4ec0943bd02bfa9e92d8:
+    span:
+      start: 36652
+      end: 37786
+    imgnum: 37
+    reference: 20050037.tiff
+  9ce55eb5796d42e3a6f94e5285ff5aed:
+    span:
+      start: 37787
+      end: 38824
+    imgnum: 38
+    reference: 20050038.tiff
+  0bbff3be9db647799426e5a2084e7a77:
+    span:
+      start: 38825
+      end: 39952
+    imgnum: 39
+    reference: 20050039.tiff
+  a957e8df1e69434b88d8d36a604e2ca7:
+    span:
+      start: 39953
+      end: 41087
+    imgnum: 40
+    reference: 20050040.tiff
+  cc1a5c79300b4cddadece665d4aa911a:
+    span:
+      start: 41088
+      end: 42183
+    imgnum: 41
+    reference: 20050041.tiff
+  1f8616cecf8f4cf48dd4859672fadcae:
+    span:
+      start: 42184
+      end: 43285
+    imgnum: 42
+    reference: 20050042.tiff
+  af338af997b94a1ea89f0219ab40e76f:
+    span:
+      start: 43286
+      end: 44353
+    imgnum: 43
+    reference: 20050043.tiff
+  e8f737067ab149358dd99db8c9a1e9ed:
+    span:
+      start: 44354
+      end: 45290
+    imgnum: 44
+    reference: 20050044.tiff
+  a422293dec8447a1ac53184a02bcc2af:
+    span:
+      start: 45291
+      end: 46418
+    imgnum: 45
+    reference: 20050045.tiff
+  1e3f792e63f244af9a48807586071476:
+    span:
+      start: 46419
+      end: 47569
+    imgnum: 46
+    reference: 20050046.tiff
+  8793134d0aec44e690b6e2ee57ddcf17:
+    span:
+      start: 47570
+      end: 48712
+    imgnum: 47
+    reference: 20050047.tiff
+  854d59b17dfb4573a8e34b07ab81f34c:
+    span:
+      start: 48713
+      end: 49814
+    imgnum: 48
+    reference: 20050048.tiff
+  2194b6cc66514db883ebbaa559b0d992:
+    span:
+      start: 49815
+      end: 50883
+    imgnum: 49
+    reference: 20050049.tiff
+  6d86eb1e54c74e99ab7e01117c797c91:
+    span:
+      start: 50884
+      end: 51951
+    imgnum: 50
+    reference: 20050050.tiff
+  596cc35aea7c437082e61881d823d134:
+    span:
+      start: 51952
+      end: 53029
+    imgnum: 51
+    reference: 20050051.tiff
+  c258866dc74c45c08dc6a43b5fc37739:
+    span:
+      start: 53030
+      end: 54102
+    imgnum: 52
+    reference: 20050052.tiff
+  055348ee2dd547a98020d52c6df90800:
+    span:
+      start: 54103
+      end: 55209
+    imgnum: 53
+    reference: 20050053.tiff
+  311f135301124008b15701fc2d24b61b:
+    span:
+      start: 55210
+      end: 56342
+    imgnum: 54
+    reference: 20050054.tiff
+  ada393276d174ad28c1b2b353656885a:
+    span:
+      start: 56343
+      end: 57447
+    imgnum: 55
+    reference: 20050055.tiff
+  ecfd443a25204f9cbe0ac68999f2e439:
+    span:
+      start: 57448
+      end: 58573
+    imgnum: 56
+    reference: 20050056.tiff
+  62df1ffa288d4f63aba546a34040703b:
+    span:
+      start: 58574
+      end: 59729
+    imgnum: 57
+    reference: 20050057.tiff
+  7226c8becf104d379f477c1a5c0de520:
+    span:
+      start: 59730
+      end: 60842
+    imgnum: 58
+    reference: 20050058.tiff
+  9d784699f81c47e398cb29007084ea05:
+    span:
+      start: 60843
+      end: 62026
+    imgnum: 59
+    reference: 20050059.tiff
+  9ae0ecfa2ddf4f1c9df5bdc46c129db0:
+    span:
+      start: 62027
+      end: 63126
+    imgnum: 60
+    reference: 20050060.tiff
+  d8651726a4794e18a5dfc28dac75dba2:
+    span:
+      start: 63127
+      end: 64257
+    imgnum: 61
+    reference: 20050061.tiff
+  a8fe30b33e734aee9e0524527c4308d5:
+    span:
+      start: 64258
+      end: 65419
+    imgnum: 62
+    reference: 20050062.tiff
+  c56ca020a59547d99b55b064719f2081:
+    span:
+      start: 65420
+      end: 66590
+    imgnum: 63
+    reference: 20050063.tiff
+  80c3f86af42f43b1a216702eabd1a463:
+    span:
+      start: 66591
+      end: 67715
+    imgnum: 64
+    reference: 20050064.tiff
+  b9e8898490b04212b2e983d2448cca73:
+    span:
+      start: 67716
+      end: 68865
+    imgnum: 65
+    reference: 20050065.tiff
+  2c17b6eed0d04cf58656919801eaadb2:
+    span:
+      start: 68866
+      end: 70043
+    imgnum: 66
+    reference: 20050066.tiff
+  b2bdf1df925d4e0dbfec663ef8d4dbf9:
+    span:
+      start: 70044
+      end: 71193
+    imgnum: 67
+    reference: 20050067.tiff
+  423a3f7b2b64479885c65439f3585038:
+    span:
+      start: 71194
+      end: 72330
+    imgnum: 68
+    reference: 20050068.tiff
+  dd8ec944e82f4cbcb29cb782a406bcce:
+    span:
+      start: 72331
+      end: 73490
+    imgnum: 69
+    reference: 20050069.tiff
+  cc7bcbbcf54c467caa9e01a1d2436ff7:
+    span:
+      start: 73491
+      end: 74664
+    imgnum: 70
+    reference: 20050070.tiff
+  89bf0fd2f4b44f7b927b3d317aa786e7:
+    span:
+      start: 74665
+      end: 75773
+    imgnum: 71
+    reference: 20050071.tiff
+  a01c0be6d4344c3b9f1768c0fb9403c1:
+    span:
+      start: 75774
+      end: 76873
+    imgnum: 72
+    reference: 20050072.tiff
+  527dd8d265d84d6e918265b14e0867cc:
+    span:
+      start: 76874
+      end: 77992
+    imgnum: 73
+    reference: 20050073.tiff
+  5ef731c5685747f2a5bc8166c0eebbe7:
+    span:
+      start: 77993
+      end: 79037
+    imgnum: 74
+    reference: 20050074.tiff
+  752b33193f2f4ad686a76a7f3b151e17:
+    span:
+      start: 79038
+      end: 80143
+    imgnum: 75
+    reference: 20050075.tiff
+  95444b13a4f84debb40ee0f267dc3a0d:
+    span:
+      start: 80144
+      end: 81215
+    imgnum: 76
+    reference: 20050076.tiff
+  edd4716bffda4dd1894274fb34f5d719:
+    span:
+      start: 81216
+      end: 82333
+    imgnum: 77
+    reference: 20050077.tiff
+  3a366746e3864ea98e3b703e3fd1d6db:
+    span:
+      start: 82334
+      end: 83425
+    imgnum: 78
+    reference: 20050078.tiff
+  5a306e2d3b3645c3a88644d38a2a934e:
+    span:
+      start: 83426
+      end: 84534
+    imgnum: 79
+    reference: 20050079.tiff
+  9144650b652b4ae894037f679cf9c9c7:
+    span:
+      start: 84535
+      end: 85526
+    imgnum: 80
+    reference: 20050080.tiff
+  1657a61f58844ad0b84cbd0ff16132a4:
+    span:
+      start: 85527
+      end: 86621
+    imgnum: 81
+    reference: 20050081.tiff
+  2ef0fb5a037747649a8055917f7e01ee:
+    span:
+      start: 86622
+      end: 87448
+    imgnum: 82
+    reference: 20050082.tiff
+  b8299bdb0cbe416392dee620718ec323:
+    span:
+      start: 87449
+      end: 88579
+    imgnum: 83
+    reference: 20050083.tiff
+  915bf5217b214408811b580516497115:
+    span:
+      start: 88580
+      end: 89566
+    imgnum: 84
+    reference: 20050084.tiff
+  68d67e12324f413c9d437b5a5c71ad18:
+    span:
+      start: 89567
+      end: 90678
+    imgnum: 85
+    reference: 20050085.tiff
+  8ff60533c7cc48b98b34f44abbc92dad:
+    span:
+      start: 90679
+      end: 91583
+    imgnum: 86
+    reference: 20050086.tiff
+  89d82f0e06cd4741b3485442b6008492:
+    span:
+      start: 91584
+      end: 92637
+    imgnum: 87
+    reference: 20050087.tiff
+  e90ee4bc45294f9d80474aad07c8a763:
+    span:
+      start: 92638
+      end: 93775
+    imgnum: 88
+    reference: 20050088.tiff
+  bf99aab29fcc4128b20602c195b5125a:
+    span:
+      start: 93776
+      end: 94881
+    imgnum: 89
+    reference: 20050089.tiff
+  29b20038d58e4205b1e9282389708df2:
+    span:
+      start: 94882
+      end: 95976
+    imgnum: 90
+    reference: 20050090.tiff
+  4b6e3a4a87124143947f85c8f23da333:
+    span:
+      start: 95977
+      end: 97117
+    imgnum: 91
+    reference: 20050091.tiff
+  da8600a47de044e5856ff36f78a99397:
+    span:
+      start: 97118
+      end: 98146
+    imgnum: 92
+    reference: 20050092.tiff
+  e091749cafb7411888b5c4a0b998810b:
+    span:
+      start: 98147
+      end: 99254
+    imgnum: 93
+    reference: 20050093.tiff
+  63fea75eb4564ae0b23eb9523660e93b:
+    span:
+      start: 99255
+      end: 100412
+    imgnum: 94
+    reference: 20050094.tiff
+  eaa2cf9efb5d47daa2ee119e78a96e04:
+    span:
+      start: 100413
+      end: 101437
+    imgnum: 95
+    reference: 20050095.tiff
+  d82374d72ee94e6eb49ad71a34ee8241:
+    span:
+      start: 101438
+      end: 102501
+    imgnum: 96
+    reference: 20050096.tiff
+  de5654fe28414fb3965d0a08c7643302:
+    span:
+      start: 102502
+      end: 103538
+    imgnum: 97
+    reference: 20050097.tiff
+  39108ee68d5a42a0a5a3bf4869bfeaa2:
+    span:
+      start: 103539
+      end: 104596
+    imgnum: 98
+    reference: 20050098.tiff
+  84cdaf8cb8ff4c1fa08cb619a8b13f63:
+    span:
+      start: 104597
+      end: 105567
+    imgnum: 99
+    reference: 20050099.tiff
+  92fbd901ff2248aba93194574ff8d3bd:
+    span:
+      start: 105568
+      end: 106643
+    imgnum: 100
+    reference: 20050100.tiff
+  2630cce6def243378be9e4c59e4a930d:
+    span:
+      start: 106644
+      end: 107727
+    imgnum: 101
+    reference: 20050101.tiff
+  af2b9c7784614dcfb6c273b3036bb5a6:
+    span:
+      start: 107728
+      end: 108793
+    imgnum: 102
+    reference: 20050102.tiff
+  ccbd3a68de914b55935285b1bbb156f9:
+    span:
+      start: 108794
+      end: 109859
+    imgnum: 103
+    reference: 20050103.tiff
+  ffc31e0ab74845dc9a87eb2c1942f802:
+    span:
+      start: 109860
+      end: 110922
+    imgnum: 104
+    reference: 20050104.tiff
+  73a3c2ada781464aa9d503a077812235:
+    span:
+      start: 110923
+      end: 112030
+    imgnum: 105
+    reference: 20050105.tiff
+  3298c99e303f4d128286201c70e6222c:
+    span:
+      start: 112031
+      end: 113136
+    imgnum: 106
+    reference: 20050106.tiff
+  3483b1dfe79a485896211ce5bd455551:
+    span:
+      start: 113137
+      end: 114276
+    imgnum: 107
+    reference: 20050107.tiff
+  e445c7b3e4b94768bcfb006ff0092600:
+    span:
+      start: 114277
+      end: 115325
+    imgnum: 108
+    reference: 20050108.tiff
+  93653ac3b05d400fbafb35adb09e6f46:
+    span:
+      start: 115326
+      end: 116310
+    imgnum: 109
+    reference: 20050109.tiff
+  9ce17053851b4b13b8655d08bcd85360:
+    span:
+      start: 116311
+      end: 117384
+    imgnum: 110
+    reference: 20050110.tiff
+  7312441fa66441a0ae2a8958e36f7470:
+    span:
+      start: 117385
+      end: 118501
+    imgnum: 111
+    reference: 20050111.tiff
+  c083b5f80c854c1bb8c8ddb2d49519a8:
+    span:
+      start: 118502
+      end: 119630
+    imgnum: 112
+    reference: 20050112.tiff
+  ebba86842e9d4f588d069aad0f2e4088:
+    span:
+      start: 119631
+      end: 120741
+    imgnum: 113
+    reference: 20050113.tiff
+  de4ef94ed6f0480393af112713a8c325:
+    span:
+      start: 120742
+      end: 121851
+    imgnum: 114
+    reference: 20050114.tiff
+  03497b2d41ac4157a02a2a78aaeb2f86:
+    span:
+      start: 121852
+      end: 122920
+    imgnum: 115
+    reference: 20050115.tiff
+  04151bc5132044f9abdead8999cded3c:
+    span:
+      start: 122921
+      end: 124014
+    imgnum: 116
+    reference: 20050116.tiff
+  777fa4bc1fbc46808b93c592bd60adee:
+    span:
+      start: 124015
+      end: 125130
+    imgnum: 117
+    reference: 20050117.tiff
+  67682e0868794fa192f20031685190da:
+    span:
+      start: 125131
+      end: 126209
+    imgnum: 118
+    reference: 20050118.tiff
+  5232148d1465483b8fa5850fbee71d3c:
+    span:
+      start: 126210
+      end: 127268
+    imgnum: 119
+    reference: 20050119.tiff
+  f6ee4c94f89d43d6a5dbbf07aae9c933:
+    span:
+      start: 127269
+      end: 128330
+    imgnum: 120
+    reference: 20050120.tiff
+  5862948e0a914ad28a5d67908a8786bd:
+    span:
+      start: 128331
+      end: 129355
+    imgnum: 121
+    reference: 20050121.tiff
+  3d737ee9aa5f4171be0ed0f892335a25:
+    span:
+      start: 129356
+      end: 130439
+    imgnum: 122
+    reference: 20050122.tiff
+  78482c82c137473cb7c3ff686059f36f:
+    span:
+      start: 130440
+      end: 131571
+    imgnum: 123
+    reference: 20050123.tiff
+  3a443b77dc144344a6822c351df775dc:
+    span:
+      start: 131572
+      end: 132699
+    imgnum: 124
+    reference: 20050124.tiff
+  3e0f33efa7be4d15b5615f5580f65319:
+    span:
+      start: 132700
+      end: 133813
+    imgnum: 125
+    reference: 20050125.tiff
+  a84c3cb933034147b6b97a55967d15e4:
+    span:
+      start: 133814
+      end: 134859
+    imgnum: 126
+    reference: 20050126.tiff
+  949e3fb2fe6e40b291d9f4f2a22dc0ae:
+    span:
+      start: 134860
+      end: 135934
+    imgnum: 127
+    reference: 20050127.tiff
+  85e3d53e6cfe447c9360fd417b45bf19:
+    span:
+      start: 135935
+      end: 137049
+    imgnum: 128
+    reference: 20050128.tiff
+  df99c1bb34514566814fc1fa64651b5a:
+    span:
+      start: 137050
+      end: 138130
+    imgnum: 129
+    reference: 20050129.tiff
+  676b3944f9d2465bab1d2c96a62fd84b:
+    span:
+      start: 138131
+      end: 139210
+    imgnum: 130
+    reference: 20050130.tiff
+  ed2f5dd9921a4c7da8460533252b7f07:
+    span:
+      start: 139211
+      end: 140286
+    imgnum: 131
+    reference: 20050131.tiff
+  db8a8b9799ca436ab129a4626ee37d89:
+    span:
+      start: 140287
+      end: 141302
+    imgnum: 132
+    reference: 20050132.tiff
+  517b97470ced42c2857af149383699f2:
+    span:
+      start: 141303
+      end: 142404
+    imgnum: 133
+    reference: 20050133.tiff
+  bd10043ed3e745c885b09aa49accc017:
+    span:
+      start: 142405
+      end: 143568
+    imgnum: 134
+    reference: 20050134.tiff
+  b092a3e65c7846d79a6c1f06b934d1aa:
+    span:
+      start: 143569
+      end: 144686
+    imgnum: 135
+    reference: 20050135.tiff
+  b9b351c4e1e948b4aa8debb71d98347d:
+    span:
+      start: 144687
+      end: 145794
+    imgnum: 136
+    reference: 20050136.tiff
+  6c8f7a5a9fab4db9b2a065442c61d862:
+    span:
+      start: 145795
+      end: 146849
+    imgnum: 137
+    reference: 20050137.tiff
+  bf0add40f39143599b45b79bf03963d6:
+    span:
+      start: 146850
+      end: 147953
+    imgnum: 138
+    reference: 20050138.tiff
+  0f8dd21da408470fb25d0b64e9941f55:
+    span:
+      start: 147954
+      end: 149082
+    imgnum: 139
+    reference: 20050139.tiff
+  31fbe15bc2a44fda9e5661ee97cdf1e8:
+    span:
+      start: 149083
+      end: 150188
+    imgnum: 140
+    reference: 20050140.tiff
+  211d80ab4a424188a4e714ba9edcc5bc:
+    span:
+      start: 150189
+      end: 151270
+    imgnum: 141
+    reference: 20050141.tiff
+  0ecced8d46614ebf85c0379342f88957:
+    span:
+      start: 151271
+      end: 152377
+    imgnum: 142
+    reference: 20050142.tiff
+  5aa496e1c7304994bb3468cca5ae6e90:
+    span:
+      start: 152378
+      end: 153450
+    imgnum: 143
+    reference: 20050143.tiff
+  af13f4bcd6634f4da1fefc99757342b3:
+    span:
+      start: 153451
+      end: 154490
+    imgnum: 144
+    reference: 20050144.tiff
+  1fc17aca0cd64c429b056424aff28bbd:
+    span:
+      start: 154491
+      end: 155565
+    imgnum: 145
+    reference: 20050145.tiff
+  f8cf6f22589f4bcd880c84683968bce0:
+    span:
+      start: 155566
+      end: 156502
+    imgnum: 146
+    reference: 20050146.tiff
+  96d514e17cbc4f87883c0fae3161c4fb:
+    span:
+      start: 156503
+      end: 157624
+    imgnum: 147
+    reference: 20050147.tiff
+  e63df163c70c42d98904eca50fe77c35:
+    span:
+      start: 157625
+      end: 158730
+    imgnum: 148
+    reference: 20050148.tiff
+  afd6b4f9ce894b0c9e4d4fb534eeaa3c:
+    span:
+      start: 158731
+      end: 159844
+    imgnum: 149
+    reference: 20050149.tiff
+  4554e5a3c3524400b0f4e7f024bdfed8:
+    span:
+      start: 159845
+      end: 160949
+    imgnum: 150
+    reference: 20050150.tiff
+  5ebc2c0925f9434ca88dcb3d55ea26de:
+    span:
+      start: 160950
+      end: 162006
+    imgnum: 151
+    reference: 20050151.tiff
+  d61e868ca6c74d7382ebd44a61d46b12:
+    span:
+      start: 162007
+      end: 163093
+    imgnum: 152
+    reference: 20050152.tiff
+  f2c044a65ef142b7857bc237fc11646f:
+    span:
+      start: 163094
+      end: 164195
+    imgnum: 153
+    reference: 20050153.tiff
+  97f2e41cc3db4c0695a234fa96433398:
+    span:
+      start: 164196
+      end: 165282
+    imgnum: 154
+    reference: 20050154.tiff
+  ca2ed3b840ed40a5862958c69f82e301:
+    span:
+      start: 165283
+      end: 166392
+    imgnum: 155
+    reference: 20050155.tiff
+  fa2ab50750a24de29dd60672e94aebc2:
+    span:
+      start: 166393
+      end: 167493
+    imgnum: 156
+    reference: 20050156.tiff
+  7c773a9327b64cafa8e1c2d18d628943:
+    span:
+      start: 167494
+      end: 168624
+    imgnum: 157
+    reference: 20050157.tiff
+  ad3b6240aaac4058a299946c98d785c0:
+    span:
+      start: 168625
+      end: 169764
+    imgnum: 158
+    reference: 20050158.tiff
+  0a92e0b4289a4f61accdf93eda86316d:
+    span:
+      start: 169765
+      end: 170897
+    imgnum: 159
+    reference: 20050159.tiff
+  3c5787a6994a4be796d863b8df983c3e:
+    span:
+      start: 170898
+      end: 172078
+    imgnum: 160
+    reference: 20050160.tiff
+  2753a43ffdc145fc8d014cbc59d7cfd0:
+    span:
+      start: 172079
+      end: 173251
+    imgnum: 161
+    reference: 20050161.tiff
+  98fdea91258a4ca0a290fb366ec1f238:
+    span:
+      start: 173252
+      end: 174322
+    imgnum: 162
+    reference: 20050162.tiff
+  32de0696a2c6486aa385315aedb80c00:
+    span:
+      start: 174323
+      end: 175442
+    imgnum: 163
+    reference: 20050163.tiff
+  081284f5dbc84a86ad5dafb199d65b80:
+    span:
+      start: 175443
+      end: 176525
+    imgnum: 164
+    reference: 20050164.tiff
+  e2d1737cbb96425e843ce219a5a20703:
+    span:
+      start: 176526
+      end: 177602
+    imgnum: 165
+    reference: 20050165.tiff
+  3b7ec0412f6b4338a5be75a49df49979:
+    span:
+      start: 177603
+      end: 178704
+    imgnum: 166
+    reference: 20050166.tiff
+  247180080dc249a19d795ee01aba9371:
+    span:
+      start: 178705
+      end: 179815
+    imgnum: 167
+    reference: 20050167.tiff
+  facb476dfd774a5e9b7f763fccd928c2:
+    span:
+      start: 179816
+      end: 180879
+    imgnum: 168
+    reference: 20050168.tiff
+  b500e7deb2044064ba92984df122f53c:
+    span:
+      start: 180880
+      end: 181997
+    imgnum: 169
+    reference: 20050169.tiff
+  06daa6edb5a246c18154d65cb63379e0:
+    span:
+      start: 181998
+      end: 183100
+    imgnum: 170
+    reference: 20050170.tiff
+  34b96a0368c2483097e856dcc8a65a44:
+    span:
+      start: 183101
+      end: 184248
+    imgnum: 171
+    reference: 20050171.tiff
+  ec73d0b2dbf54946ab51b146a4d53a1f:
+    span:
+      start: 184249
+      end: 185396
+    imgnum: 172
+    reference: 20050172.tiff
+  091ea986fb324d54a070a38f71e7a721:
+    span:
+      start: 185397
+      end: 186489
+    imgnum: 173
+    reference: 20050173.tiff
+  3337ebade5834d268e8b83c260a1e4b1:
+    span:
+      start: 186490
+      end: 187615
+    imgnum: 174
+    reference: 20050174.tiff
+  bc2ab9a48a3c49ae8b4ae1c2b3d36a65:
+    span:
+      start: 187616
+      end: 188771
+    imgnum: 175
+    reference: 20050175.tiff
+  0012ca8d76364d0dbb535445c70ae4be:
+    span:
+      start: 188772
+      end: 189871
+    imgnum: 176
+    reference: 20050176.tiff
+  01f4ae28374b49e894b2e023da5eaada:
+    span:
+      start: 189872
+      end: 190973
+    imgnum: 177
+    reference: 20050177.tiff
+  6922636a12e34ca489e48c995842f5a6:
+    span:
+      start: 190974
+      end: 192155
+    imgnum: 178
+    reference: 20050178.tiff
+  3716d8cc7cb346749a771778f0d4aa0e:
+    span:
+      start: 192156
+      end: 193245
+    imgnum: 179
+    reference: 20050179.tiff
+  3656926538f1484db385326da08c1e78:
+    span:
+      start: 193246
+      end: 194407
+    imgnum: 180
+    reference: 20050180.tiff
+  3a7b2aa3aafd45e8bf9748a07a4cb543:
+    span:
+      start: 194408
+      end: 195565
+    imgnum: 181
+    reference: 20050181.tiff
+  4321671af86a48ed822ebdcc8ea99e51:
+    span:
+      start: 195566
+      end: 196718
+    imgnum: 182
+    reference: 20050182.tiff
+  047208b4b97c4912bcb511fb4df213c4:
+    span:
+      start: 196719
+      end: 197760
+    imgnum: 183
+    reference: 20050183.tiff
+  07ff17777eab4b09bea5ef3e3a2adbb9:
+    span:
+      start: 197761
+      end: 198899
+    imgnum: 184
+    reference: 20050184.tiff
+  9fff3d7f9197436189f2ab5f814961ce:
+    span:
+      start: 198900
+      end: 200025
+    imgnum: 185
+    reference: 20050185.tiff
+  7e0082f6de5147cfbb3bf7642b528f2a:
+    span:
+      start: 200026
+      end: 201195
+    imgnum: 186
+    reference: 20050186.tiff
+  6d8cf92335534b0bbc2243c2b5d54788:
+    span:
+      start: 201196
+      end: 202293
+    imgnum: 187
+    reference: 20050187.tiff
+  fab8bc6d53a94c21ab2a1955b26f0168:
+    span:
+      start: 202294
+      end: 203403
+    imgnum: 188
+    reference: 20050188.tiff
+  953be06313bd4b5c91da5f8688f3e2ff:
+    span:
+      start: 203404
+      end: 204500
+    imgnum: 189
+    reference: 20050189.tiff
+  cb2bd9f18c564121a1f0b866a8cea36f:
+    span:
+      start: 204501
+      end: 205663
+    imgnum: 190
+    reference: 20050190.tiff
+  071ace195eeb4e91af504fe671103431:
+    span:
+      start: 205664
+      end: 206795
+    imgnum: 191
+    reference: 20050191.tiff
+  44644a672cb84bcd8d8460f060e5580d:
+    span:
+      start: 206796
+      end: 207877
+    imgnum: 192
+    reference: 20050192.tiff
+  414380a91e374eb4a875e5fd8db6ae43:
+    span:
+      start: 207878
+      end: 208986
+    imgnum: 193
+    reference: 20050193.tiff
+  d7804f306b1e43679a96ceaba216cdcb:
+    span:
+      start: 208987
+      end: 210070
+    imgnum: 194
+    reference: 20050194.tiff
+  b5bfa110db244af4a5a159331df2b49d:
+    span:
+      start: 210071
+      end: 211112
+    imgnum: 195
+    reference: 20050195.tiff
+  a56ba7bce78e40b7bcaf37ed45da1240:
+    span:
+      start: 211113
+      end: 212256
+    imgnum: 196
+    reference: 20050196.tiff
+  746db6c985724814bcf682f5f45614ba:
+    span:
+      start: 212257
+      end: 213368
+    imgnum: 197
+    reference: 20050197.tiff
+  85837fd24724439eb6a0b19ac83fbbc5:
+    span:
+      start: 213369
+      end: 214555
+    imgnum: 198
+    reference: 20050198.tiff
+  e9791ebe8f5541eb8dab110bb051ff9a:
+    span:
+      start: 214556
+      end: 215710
+    imgnum: 199
+    reference: 20050199.tiff
+  ca56aeb2a1814fafbb13dff4a4cb60aa:
+    span:
+      start: 215711
+      end: 216644
+    imgnum: 200
+    reference: 20050200.tiff
+  cb2a14a73416476f9e578a1b2d32a4a9:
+    span:
+      start: 216645
+      end: 217772
+    imgnum: 201
+    reference: 20050201.tiff
+  1a1e7bf1ce5841fdba54a9fa4ce5027b:
+    span:
+      start: 217773
+      end: 218863
+    imgnum: 202
+    reference: 20050202.tiff
+  518e3ef878944baf84479a314409eaaa:
+    span:
+      start: 218864
+      end: 220006
+    imgnum: 203
+    reference: 20050203.tiff
+  4be539c4be9d47bf80e707b5cdd4977b:
+    span:
+      start: 220007
+      end: 221044
+    imgnum: 204
+    reference: 20050204.tiff
+  9a901492df7d47598be14e2d4722d471:
+    span:
+      start: 221045
+      end: 222048
+    imgnum: 205
+    reference: 20050205.tiff
+  a2c679d9475f4eb1bae69581822d673a:
+    span:
+      start: 222049
+      end: 223180
+    imgnum: 206
+    reference: 20050206.tiff
+  0d256ef9dd9a4565a93579179190e2a9:
+    span:
+      start: 223181
+      end: 224283
+    imgnum: 207
+    reference: 20050207.tiff
+  a587c5f7a8de469c8f987adcadae63c0:
+    span:
+      start: 224284
+      end: 225482
+    imgnum: 208
+    reference: 20050208.tiff
+  ef8ffe0b2d994f27a2dc402566822979:
+    span:
+      start: 225483
+      end: 226522
+    imgnum: 209
+    reference: 20050209.tiff
+  1e760133ec7745199b4961ed35c91aed:
+    span:
+      start: 226523
+      end: 227630
+    imgnum: 210
+    reference: 20050210.tiff
+  5597104191564884ba517e70e62ea186:
+    span:
+      start: 227631
+      end: 228739
+    imgnum: 211
+    reference: 20050211.tiff
+  40e84fad6afc4cbfa6c69e0f490ec529:
+    span:
+      start: 228740
+      end: 229848
+    imgnum: 212
+    reference: 20050212.tiff
+  4128fc362c574a88a04c9c59df65d960:
+    span:
+      start: 229849
+      end: 230920
+    imgnum: 213
+    reference: 20050213.tiff
+  d6b2922573b5439aa04a04a9bf3eb1cd:
+    span:
+      start: 230921
+      end: 231962
+    imgnum: 214
+    reference: 20050214.tiff
+  5fdb0fddcd77463faa674f9abef0190b:
+    span:
+      start: 231963
+      end: 233027
+    imgnum: 215
+    reference: 20050215.tiff
+  d156ed318b5840a7b1e5697d1ef8ce19:
+    span:
+      start: 233028
+      end: 234058
+    imgnum: 216
+    reference: 20050216.tiff
+  42b5b8d72f524b3d9fbb6c667a4e0ebe:
+    span:
+      start: 234059
+      end: 235217
+    imgnum: 217
+    reference: 20050217.tiff
+  c706f627b33f43329cdd981c5faaa49d:
+    span:
+      start: 235218
+      end: 236344
+    imgnum: 218
+    reference: 20050218.tiff
+  46443f45d8dd44f9a1e7a0f2529528b5:
+    span:
+      start: 236345
+      end: 237472
+    imgnum: 219
+    reference: 20050219.tiff
+  ba779ea3561e4db4ba4627dfb8606334:
+    span:
+      start: 237473
+      end: 238528
+    imgnum: 220
+    reference: 20050220.tiff
+  97c11905b2514c2eaa9747c5a61db9a7:
+    span:
+      start: 238529
+      end: 239593
+    imgnum: 221
+    reference: 20050221.tiff
+  3ea113caeddd45dfb4de83d38c8d9177:
+    span:
+      start: 239594
+      end: 240852
+    imgnum: 222
+    reference: 20050222.tiff
+  050abd6230b945d1892ab6bb423ea652:
+    span:
+      start: 240853
+      end: 241959
+    imgnum: 223
+    reference: 20050223.tiff
+  715f67e756394492ab96fc3bb20c782c:
+    span:
+      start: 241960
+      end: 243095
+    imgnum: 224
+    reference: 20050224.tiff
+  b8b0eed4c16c4995b200a964d8d4bed5:
+    span:
+      start: 243096
+      end: 244284
+    imgnum: 225
+    reference: 20050225.tiff
+  e1777dc0376e47899920efcd1645dc43:
+    span:
+      start: 244285
+      end: 245387
+    imgnum: 226
+    reference: 20050226.tiff
+  54f1c693d51d44619746014a155a7d6f:
+    span:
+      start: 245388
+      end: 246526
+    imgnum: 227
+    reference: 20050227.tiff
+  a5f14327755f473c84615077c25cee48:
+    span:
+      start: 246527
+      end: 247603
+    imgnum: 228
+    reference: 20050228.tiff
+  409457b42ce64ec094b1752e574e422a:
+    span:
+      start: 247604
+      end: 248676
+    imgnum: 229
+    reference: 20050229.tiff
+  013ebbe6ddf54e968935f7bd790a484f:
+    span:
+      start: 248677
+      end: 249845
+    imgnum: 230
+    reference: 20050230.tiff
+  1164c7caa5b142a6b4cf1163b65c67e7:
+    span:
+      start: 249846
+      end: 250972
+    imgnum: 231
+    reference: 20050231.tiff
+  c3619e1eeb794c63b9bd3a009d0d217c:
+    span:
+      start: 250973
+      end: 252033
+    imgnum: 232
+    reference: 20050232.tiff
+  e7ec501204e84d2e9426fc1603075144:
+    span:
+      start: 252034
+      end: 253047
+    imgnum: 233
+    reference: 20050233.tiff
+  60329df15c6949d9b3eb7869d0c94c4c:
+    span:
+      start: 253048
+      end: 254157
+    imgnum: 234
+    reference: 20050234.tiff
+  0bcf6f29c794400eb81ea41a909202d9:
+    span:
+      start: 254158
+      end: 255265
+    imgnum: 235
+    reference: 20050235.tiff
+  07585777b0f148fe9612a756c49a06e3:
+    span:
+      start: 255266
+      end: 256454
+    imgnum: 236
+    reference: 20050236.tiff
+  b474af01db4243e798af2fc0d3cb18a7:
+    span:
+      start: 256455
+      end: 257584
+    imgnum: 237
+    reference: 20050237.tiff
+  09df52c6b3e943118b920c2c79ec9cf6:
+    span:
+      start: 257585
+      end: 258766
+    imgnum: 238
+    reference: 20050238.tiff
+  cc1b631f10104447af63d7ec537e8cfc:
+    span:
+      start: 258767
+      end: 259887
+    imgnum: 239
+    reference: 20050239.tiff
+  58d3c55a3a1a4758b01c11e6296d8dba:
+    span:
+      start: 259888
+      end: 260997
+    imgnum: 240
+    reference: 20050240.tiff
+  97082929175446ceab6d05ce9ee79007:
+    span:
+      start: 260998
+      end: 262090
+    imgnum: 241
+    reference: 20050241.tiff
+  7634dac2ba734b4f9aa2cdfbfc32643e:
+    span:
+      start: 262091
+      end: 263179
+    imgnum: 242
+    reference: 20050242.tiff
+  dd70be7b8d704204a652023724ce8448:
+    span:
+      start: 263180
+      end: 264255
+    imgnum: 243
+    reference: 20050243.tiff
+  c2bb5fc62a4849bd80a5a2c410622971:
+    span:
+      start: 264256
+      end: 265228
+    imgnum: 244
+    reference: 20050244.tiff
+  7ea2e1739007477fab4872c537b6052e:
+    span:
+      start: 265229
+      end: 266316
+    imgnum: 245
+    reference: 20050245.tiff
+  97f2bd821571445e8139346dc12671e7:
+    span:
+      start: 266317
+      end: 267381
+    imgnum: 246
+    reference: 20050246.tiff
+  0290adafc1354ae9916defadebc3e170:
+    span:
+      start: 267382
+      end: 268524
+    imgnum: 247
+    reference: 20050247.tiff
+  58bf7d47c35e4c53aa7433e2de25de35:
+    span:
+      start: 268525
+      end: 269595
+    imgnum: 248
+    reference: 20050248.tiff
+  750363ff89944e3e823fe4e1ef96582d:
+    span:
+      start: 269596
+      end: 270704
+    imgnum: 249
+    reference: 20050249.tiff
+  52ba49b3ca0443d2a70b51d911f86cac:
+    span:
+      start: 270705
+      end: 271848
+    imgnum: 250
+    reference: 20050250.tiff
+  3e4eddbac9dc4f8f9e4257b080a4e030:
+    span:
+      start: 271849
+      end: 272885
+    imgnum: 251
+    reference: 20050251.tiff
+  7cbf8bf20bbb45faa3a3d73330f7c77e:
+    span:
+      start: 272886
+      end: 273975
+    imgnum: 252
+    reference: 20050252.tiff
+  1446212c6e0d40a7829cc34633e18d2b:
+    span:
+      start: 273976
+      end: 275045
+    imgnum: 253
+    reference: 20050253.tiff
+  f522cd44ac594153a00c9186e900fd1b:
+    span:
+      start: 275046
+      end: 276138
+    imgnum: 254
+    reference: 20050254.tiff
+  437055d2c610485e93dfa2b594ea64f6:
+    span:
+      start: 276139
+      end: 277180
+    imgnum: 255
+    reference: 20050255.tiff
+  7893955c1dfa440aa1e301252146de79:
+    span:
+      start: 277181
+      end: 278329
+    imgnum: 256
+    reference: 20050256.tiff
+  ad3f4d2a7d7b42fc8a6d6365db65d3cf:
+    span:
+      start: 278330
+      end: 279408
+    imgnum: 257
+    reference: 20050257.tiff
+  612753956c734c319d360c622ee91c0d:
+    span:
+      start: 279409
+      end: 280556
+    imgnum: 258
+    reference: 20050258.tiff
+  4aecb238443148f39c97dfed79c30c41:
+    span:
+      start: 280557
+      end: 281593
+    imgnum: 259
+    reference: 20050259.tiff
+  e6c2e64bd8184cda82a4e103d1586a4f:
+    span:
+      start: 281594
+      end: 282730
+    imgnum: 260
+    reference: 20050260.tiff
+  373338ae256743fd991313516cb0b927:
+    span:
+      start: 282731
+      end: 283899
+    imgnum: 261
+    reference: 20050261.tiff
+  8a93be4c0d794959a18981d68f216c78:
+    span:
+      start: 283900
+      end: 285061
+    imgnum: 262
+    reference: 20050262.tiff
+  c5c475f8f5fc48a2b3bd55df60786917:
+    span:
+      start: 285062
+      end: 286189
+    imgnum: 263
+    reference: 20050263.tiff
+  ae6f3be3669b4430b5f7d0d0c1e9d892:
+    span:
+      start: 286190
+      end: 287292
+    imgnum: 264
+    reference: 20050264.tiff
+  9c4293602790472688fc7eabd95687cc:
+    span:
+      start: 287293
+      end: 288369
+    imgnum: 265
+    reference: 20050265.tiff
+  16205a6732204aa78aba37b65de3e85a:
+    span:
+      start: 288370
+      end: 289461
+    imgnum: 266
+    reference: 20050266.tiff
+  1a4b581489d74c458ec1322abbd3027b:
+    span:
+      start: 289462
+      end: 290573
+    imgnum: 267
+    reference: 20050267.tiff
+  6076e414996a488ebb165030e66cdb01:
+    span:
+      start: 290574
+      end: 291658
+    imgnum: 268
+    reference: 20050268.tiff
+  03587f7a84ed45e0bd6f187504a42492:
+    span:
+      start: 291659
+      end: 292549
+    imgnum: 269
+    reference: 20050269.tiff
+  9b6e52041bb54bbd98c8519007f1c74b:
+    span:
+      start: 292550
+      end: 293592
+    imgnum: 270
+    reference: 20050270.tiff
+  e5ac9190f3af40f3aed9bd321132e38b:
+    span:
+      start: 293593
+      end: 294656
+    imgnum: 271
+    reference: 20050271.tiff
+  ef207073b8fb429aa6ac405b806b863c:
+    span:
+      start: 294657
+      end: 295814
+    imgnum: 272
+    reference: 20050272.tiff
+  b86b7700b52e4bba9da44987f1726d34:
+    span:
+      start: 295815
+      end: 296886
+    imgnum: 273
+    reference: 20050273.tiff
+  43e6fcf4da3a43afa7107b32e43bfd79:
+    span:
+      start: 296887
+      end: 297996
+    imgnum: 274
+    reference: 20050274.tiff
+  1f7c629bfbe641a7bb43a3ec5b0857c1:
+    span:
+      start: 297997
+      end: 299162
+    imgnum: 275
+    reference: 20050275.tiff
+  5675294f5e384a29a4e7b1c5e1c6ec00:
+    span:
+      start: 299163
+      end: 300385
+    imgnum: 276
+    reference: 20050276.tiff
+  00c904ad396541b483fcf3e5c3a5b968:
+    span:
+      start: 300386
+      end: 301436
+    imgnum: 277
+    reference: 20050277.tiff
+  97f47e4cf3144ec6835ae9233cd464e5:
+    span:
+      start: 301437
+      end: 302544
+    imgnum: 278
+    reference: 20050278.tiff
+  f86caca4d9824cc3a6130e8dee80ab73:
+    span:
+      start: 302545
+      end: 303608
+    imgnum: 279
+    reference: 20050279.tiff
+  19d16186ac4e48b6a106367946cced58:
+    span:
+      start: 303609
+      end: 304789
+    imgnum: 280
+    reference: 20050280.tiff
+  cf576af8dcf3423aa157355a1812e508:
+    span:
+      start: 304790
+      end: 305924
+    imgnum: 281
+    reference: 20050281.tiff
+  4eacca60266a4fa98c170e0762f8956a:
+    span:
+      start: 305925
+      end: 307021
+    imgnum: 282
+    reference: 20050282.tiff
+  45faf2dcbbdb40d4bb640937d5c9377e:
+    span:
+      start: 307022
+      end: 308066
+    imgnum: 283
+    reference: 20050283.tiff
+  7edb1fea7b3d41b39c9945b5bed6060a:
+    span:
+      start: 308067
+      end: 309151
+    imgnum: 284
+    reference: 20050284.tiff
+  48a0f4b0e347423589813e545d83b75b:
+    span:
+      start: 309152
+      end: 310217
+    imgnum: 285
+    reference: 20050285.tiff
+  df57ba8e93384df3bdcc9e9dc880ed96:
+    span:
+      start: 310218
+      end: 311352
+    imgnum: 286
+    reference: 20050286.tiff
+  e20c98a7b763460ca5dc2016840fb25c:
+    span:
+      start: 311353
+      end: 312492
+    imgnum: 287
+    reference: 20050287.tiff
+  2ee40bba41864294a2b2dc38b0f91dd8:
+    span:
+      start: 312493
+      end: 313626
+    imgnum: 288
+    reference: 20050288.tiff
+  e04bf8b364ed4b598f7cbad50664e33c:
+    span:
+      start: 313627
+      end: 314745
+    imgnum: 289
+    reference: 20050289.tiff
+  5082bcb28f8e4b3983902e89298aa79a:
+    span:
+      start: 314746
+      end: 315913
+    imgnum: 290
+    reference: 20050290.tiff
+  9b6607abe42245d8879e2fbc081c3e2f:
+    span:
+      start: 315914
+      end: 317064
+    imgnum: 291
+    reference: 20050291.tiff
+  a10a2ce5396840d9b2d13c839720573d:
+    span:
+      start: 317065
+      end: 318262
+    imgnum: 292
+    reference: 20050292.tiff
+  a9737cfc8a6f4b1b9f092bd8b66dd9fa:
+    span:
+      start: 318263
+      end: 319403
+    imgnum: 293
+    reference: 20050293.tiff
+  bee52a2307424107bf03460ea99034eb:
+    span:
+      start: 319404
+      end: 320603
+    imgnum: 294
+    reference: 20050294.tiff
+  cc7e9df1507a4bee85cfeeb857a62ef5:
+    span:
+      start: 320604
+      end: 321755
+    imgnum: 295
+    reference: 20050295.tiff
+  1ddcf047a461421d98f4b498fbca22a4:
+    span:
+      start: 321756
+      end: 322921
+    imgnum: 296
+    reference: 20050296.tiff
+  1697f0ed6e944af88e05d769fc0f7b87:
+    span:
+      start: 322922
+      end: 324074
+    imgnum: 297
+    reference: 20050297.tiff
+  04a3b51c106a461fa105e948edd2dbfc:
+    span:
+      start: 324075
+      end: 325226
+    imgnum: 298
+    reference: 20050298.tiff
+  61329dc1c1494e019c20d1b15102d669:
+    span:
+      start: 325227
+      end: 326413
+    imgnum: 299
+    reference: 20050299.tiff
+  644d382b121147de8571dd313eb480ae:
+    span:
+      start: 326414
+      end: 327557
+    imgnum: 300
+    reference: 20050300.tiff
+  f62e47389cdc44fd97081da0965b8b09:
+    span:
+      start: 327558
+      end: 328708
+    imgnum: 301
+    reference: 20050301.tiff
+  f4992ed9b3ae4ae9bcbe2846eeb6a0b2:
+    span:
+      start: 328709
+      end: 329779
+    imgnum: 302
+    reference: 20050302.tiff
+  d694d7c169a9483289f9c7b6735c31fb:
+    span:
+      start: 329780
+      end: 330891
+    imgnum: 303
+    reference: 20050303.tiff
+  f56cf1bd26ac4d6987ab7f6c78fbeb01:
+    span:
+      start: 330892
+      end: 331951
+    imgnum: 304
+    reference: 20050304.tiff
+  aa90f113c5ac4f6ba70b49079747fb96:
+    span:
+      start: 331952
+      end: 333066
+    imgnum: 305
+    reference: 20050305.tiff
+  f26df975317143e9ba9ddef4523aa48b:
+    span:
+      start: 333067
+      end: 334196
+    imgnum: 306
+    reference: 20050306.tiff
+  41990a280f36409d8c48cc1a6a16a404:
+    span:
+      start: 334197
+      end: 335287
+    imgnum: 307
+    reference: 20050307.tiff
+  f1790a79122d435581a25223e4a7f758:
+    span:
+      start: 335288
+      end: 336421
+    imgnum: 308
+    reference: 20050308.tiff
+  27400cc3856e4e0fab187ee3c6b113d3:
+    span:
+      start: 336422
+      end: 337604
+    imgnum: 309
+    reference: 20050309.tiff
+  ef1dee93ce7f464d8e475a4c5f89dd3a:
+    span:
+      start: 337605
+      end: 338758
+    imgnum: 310
+    reference: 20050310.tiff
+  aea718570d5c41839ee37f237f1fb4b2:
+    span:
+      start: 338759
+      end: 339934
+    imgnum: 311
+    reference: 20050311.tiff
+  91aba7b9076f40e4a498d32d6a613374:
+    span:
+      start: 339935
+      end: 341063
+    imgnum: 312
+    reference: 20050312.tiff
+  b99bb2ca3d964d1b9ee1efb61e665f6a:
+    span:
+      start: 341064
+      end: 342129
+    imgnum: 313
+    reference: 20050313.tiff
+  39eb4a4c217d4fc3a47624b86262520a:
+    span:
+      start: 342130
+      end: 343258
+    imgnum: 314
+    reference: 20050314.tiff
+  33399f172e4d4d0e8a61408fbba71f13:
+    span:
+      start: 343259
+      end: 344417
+    imgnum: 315
+    reference: 20050315.tiff
+  9226ca63b34e4cbb972be76c94e9abbf:
+    span:
+      start: 344418
+      end: 345531
+    imgnum: 316
+    reference: 20050316.tiff
+  4fdd656e8de84e709a897fc8dcd24b8a:
+    span:
+      start: 345532
+      end: 346663
+    imgnum: 317
+    reference: 20050317.tiff
+  4875ae4cdb9647ff8897b37a0ed7c113:
+    span:
+      start: 346664
+      end: 347722
+    imgnum: 318
+    reference: 20050318.tiff
+  39079ea1a636468ea4d611635cfc7767:
+    span:
+      start: 347723
+      end: 348845
+    imgnum: 319
+    reference: 20050319.tiff
+  69c7a66568d54aca87a2da75434cccbe:
+    span:
+      start: 348846
+      end: 349887
+    imgnum: 320
+    reference: 20050320.tiff
+  561e7efafa414745a8eb2080cb90658c:
+    span:
+      start: 349888
+      end: 351017
+    imgnum: 321
+    reference: 20050321.tiff
+  6051cb267a1b4f028da5c6ea5b4dc5c6:
+    span:
+      start: 351018
+      end: 352128
+    imgnum: 322
+    reference: 20050322.tiff
+  c9972cbc0097442c831cf5b958de902e:
+    span:
+      start: 352129
+      end: 353275
+    imgnum: 323
+    reference: 20050323.tiff
+  baab60f7bef04c76af7b238be9c46e2e:
+    span:
+      start: 353276
+      end: 354415
+    imgnum: 324
+    reference: 20050324.tiff
+  742edd10e6bd4ff6a2b83f92b9d824dc:
+    span:
+      start: 354416
+      end: 355550
+    imgnum: 325
+    reference: 20050325.tiff
+  b438d27efb9e43b7874e9c22369b0b8e:
+    span:
+      start: 355551
+      end: 356680
+    imgnum: 326
+    reference: 20050326.tiff
+  d4b8461b5ec84375b6504d3060cad3b2:
+    span:
+      start: 356681
+      end: 357697
+    imgnum: 327
+    reference: 20050327.tiff
+  68a3ada4577a48b388aa3f4e41f9bef2:
+    span:
+      start: 357698
+      end: 358757
+    imgnum: 328
+    reference: 20050328.tiff
+  6a47b18ae15948f4863fbe600b19ce89:
+    span:
+      start: 358758
+      end: 359878
+    imgnum: 329
+    reference: 20050329.tiff
+  29b9ec56bc1747ce8a3d2073cb27ec2b:
+    span:
+      start: 359879
+      end: 361012
+    imgnum: 330
+    reference: 20050330.tiff
+  fa8d930d93d742e893b07d96204fcab8:
+    span:
+      start: 361013
+      end: 362113
+    imgnum: 331
+    reference: 20050331.tiff
+  273a4bf592fe45af84e5889b04d2f442:
+    span:
+      start: 362114
+      end: 363184
+    imgnum: 332
+    reference: 20050332.tiff
+  0f1c4b7c3d0f4abf986af4239f50ca35:
+    span:
+      start: 363185
+      end: 364203
+    imgnum: 333
+    reference: 20050333.tiff
+  2d0835d5a635441894a39fd5dc530528:
+    span:
+      start: 364204
+      end: 365355
+    imgnum: 334
+    reference: 20050334.tiff
+  f8f61201e817455cae78d6dae3813852:
+    span:
+      start: 365356
+      end: 366505
+    imgnum: 335
+    reference: 20050335.tiff
+  e2b1b67bd294406c89c64b148caae4f4:
+    span:
+      start: 366506
+      end: 367611
+    imgnum: 336
+    reference: 20050336.tiff
+  d97b896e255e4aedb8d843901843d4e1:
+    span:
+      start: 367612
+      end: 368692
+    imgnum: 337
+    reference: 20050337.tiff
+  cc112ad6b11d4d3f9a92f0fb1be5da71:
+    span:
+      start: 368693
+      end: 369721
+    imgnum: 338
+    reference: 20050338.tiff
+  773c3e3c02b442eebdf1bcb4aadeac4a:
+    span:
+      start: 369722
+      end: 370826
+    imgnum: 339
+    reference: 20050339.tiff
+  30cb27e600d14421a8c08020de81ac36:
+    span:
+      start: 370827
+      end: 371944
+    imgnum: 340
+    reference: 20050340.tiff
+  394c36d257e24be8b78f138c83fcb4fe:
+    span:
+      start: 371945
+      end: 373073
+    imgnum: 341
+    reference: 20050341.tiff
+  3a2771f3e10e43aa8e7b0c8bb6f824aa:
+    span:
+      start: 373074
+      end: 374222
+    imgnum: 342
+    reference: 20050342.tiff
+  577616572ca646ddbf88e682000418eb:
+    span:
+      start: 374223
+      end: 375284
+    imgnum: 343
+    reference: 20050343.tiff
+  bd3e2014da254142b8e625a28dd4abc3:
+    span:
+      start: 375285
+      end: 376410
+    imgnum: 344
+    reference: 20050344.tiff
+  b5696aa295984d81aa427567c8094fdf:
+    span:
+      start: 376411
+      end: 377475
+    imgnum: 345
+    reference: 20050345.tiff
+  13573458b8cd4b8ab8e17a1916a7b904:
+    span:
+      start: 377476
+      end: 378631
+    imgnum: 346
+    reference: 20050346.tiff
+  451e23a052bc43c6884ffb47ccb3b959:
+    span:
+      start: 378632
+      end: 379746
+    imgnum: 347
+    reference: 20050347.tiff
+  ff018ce25e8c4f0c9a84c22659235a37:
+    span:
+      start: 379747
+      end: 380823
+    imgnum: 348
+    reference: 20050348.tiff
+  bad5aa545cc94e9185b521e47d751491:
+    span:
+      start: 380824
+      end: 381959
+    imgnum: 349
+    reference: 20050349.tiff
+  765de407da3247e69e25e5c905e9885d:
+    span:
+      start: 381960
+      end: 383041
+    imgnum: 350
+    reference: 20050350.tiff
+  3be54ec16528491abd515fd8cd3aea52:
+    span:
+      start: 383042
+      end: 384123
+    imgnum: 351
+    reference: 20050351.tiff
+  4986a4fbc6e64a19861ee3f864be60c9:
+    span:
+      start: 384124
+      end: 385219
+    imgnum: 352
+    reference: 20050352.tiff
+  525be3c0132c441f92d061d4cc57f66d:
+    span:
+      start: 385220
+      end: 386286
+    imgnum: 353
+    reference: 20050353.tiff
+  011d53ef1be24cb283ce6500aa056c5e:
+    span:
+      start: 386287
+      end: 387326
+    imgnum: 354
+    reference: 20050354.tiff
+  f34ca431534f4aa7ad60adcfb503663b:
+    span:
+      start: 387327
+      end: 388439
+    imgnum: 355
+    reference: 20050355.tiff
+  990ca9bef28c4b699036406c397863c1:
+    span:
+      start: 388440
+      end: 389564
+    imgnum: 356
+    reference: 20050356.tiff
+  95ff8b120dc64510976df4ee420621cb:
+    span:
+      start: 389565
+      end: 390619
+    imgnum: 357
+    reference: 20050357.tiff
+  c0e7a15b651b48c5af5badac6e4bd079:
+    span:
+      start: 390620
+      end: 391721
+    imgnum: 358
+    reference: 20050358.tiff
+  8f0d1539fd7d468db7ce3265c1867921:
+    span:
+      start: 391722
+      end: 392738
+    imgnum: 359
+    reference: 20050359.tiff
+  9fa9cce8d44a4fadbdcbf7b574730f9b:
+    span:
+      start: 392739
+      end: 393804
+    imgnum: 360
+    reference: 20050360.tiff
+  bfbf508716764fccb0e9fd627e3a0d76:
+    span:
+      start: 393805
+      end: 395120
+    imgnum: 361
+    reference: 20050361.tiff
+  241454b7857a4feda0bb368ecd85be67:
+    span:
+      start: 395121
+      end: 396220
+    imgnum: 362
+    reference: 20050362.tiff
+  90db3a1e12c942e8a8d3938486d2bb9f:
+    span:
+      start: 396221
+      end: 397299
+    imgnum: 363
+    reference: 20050363.tiff
+  324828308fce4edf8e3e95f30e5ac149:
+    span:
+      start: 397300
+      end: 398409
+    imgnum: 364
+    reference: 20050364.tiff
+  34c2673d6b214c529149c4b2bb61fff9:
+    span:
+      start: 398410
+      end: 399550
+    imgnum: 365
+    reference: 20050365.tiff
+  9aee9220b1bd4ea0aba8d5eb0f175581:
+    span:
+      start: 399551
+      end: 400716
+    imgnum: 366
+    reference: 20050366.tiff
+  c675f99a45d04b2ea8751360aa124a26:
+    span:
+      start: 400717
+      end: 401826
+    imgnum: 367
+    reference: 20050367.tiff
+  3a72a8ae1dc9490d8e429dcb6874c444:
+    span:
+      start: 401827
+      end: 402944
+    imgnum: 368
+    reference: 20050368.tiff
+  ef61f2761d684274aa97b4336cf7d76a:
+    span:
+      start: 402945
+      end: 403999
+    imgnum: 369
+    reference: 20050369.tiff
+  5e0792b4fc3848acbd1c2da12f89131c:
+    span:
+      start: 404000
+      end: 405115
+    imgnum: 370
+    reference: 20050370.tiff
+  dad771e45b944c08afbdf342d830028d:
+    span:
+      start: 405116
+      end: 406227
+    imgnum: 371
+    reference: 20050371.tiff
+  31a37bc9d26948a38a2153164512ed0c:
+    span:
+      start: 406228
+      end: 407366
+    imgnum: 372
+    reference: 20050372.tiff
+  d5d645a9856c488aa0bfa87ded12c22e:
+    span:
+      start: 407367
+      end: 408559
+    imgnum: 373
+    reference: 20050373.tiff
+  5a9f750ad88945339a332f35b0b2f56b:
+    span:
+      start: 408560
+      end: 409606
+    imgnum: 374
+    reference: 20050374.tiff
+  8e9118d64bce43eb9baaedffc0b598c9:
+    span:
+      start: 409607
+      end: 410750
+    imgnum: 375
+    reference: 20050375.tiff
+  421a5cdb69ad4e01826d4a88e4570051:
+    span:
+      start: 410751
+      end: 411905
+    imgnum: 376
+    reference: 20050376.tiff
+  b981c4b9d3964570824c330fb4dab8d5:
+    span:
+      start: 411906
+      end: 413034
+    imgnum: 377
+    reference: 20050377.tiff
+  964b854d6f61422cadfcbdab319d96f7:
+    span:
+      start: 413035
+      end: 414074
+    imgnum: 378
+    reference: 20050378.tiff
+  c9827c76108b49bab131aba79a0e8003:
+    span:
+      start: 414075
+      end: 415194
+    imgnum: 379
+    reference: 20050379.tiff
+  d3835ccffdf247b7ade87cb89ad035af:
+    span:
+      start: 415195
+      end: 416247
+    imgnum: 380
+    reference: 20050380.tiff
+  e2907923e68f4abdb6648d7ac8927ca9:
+    span:
+      start: 416248
+      end: 417362
+    imgnum: 381
+    reference: 20050381.tiff
+  4d062fda0af4467a96b4a74806a31ff9:
+    span:
+      start: 417363
+      end: 418411
+    imgnum: 382
+    reference: 20050382.tiff
+  24d64924171842cf85fd330e3e758875:
+    span:
+      start: 418412
+      end: 419569
+    imgnum: 383
+    reference: 20050383.tiff
+  9e1ed2d7dfe843649f482c4c2df6351d:
+    span:
+      start: 419570
+      end: 420618
+    imgnum: 384
+    reference: 20050384.tiff
+  abe2a384a978491da4bdc0d56cd9fa7b:
+    span:
+      start: 420619
+      end: 421698
+    imgnum: 385
+    reference: 20050385.tiff
+  880492e10cc945c89cd6642f629624d5:
+    span:
+      start: 421699
+      end: 422748
+    imgnum: 386
+    reference: 20050386.tiff
+  bfa261c6d1634dc89e87e91c21c9f009:
+    span:
+      start: 422749
+      end: 423869
+    imgnum: 387
+    reference: 20050387.tiff
+  254d1f4bddba436a9ff7d3cab4fd4cb4:
+    span:
+      start: 423870
+      end: 424953
+    imgnum: 388
+    reference: 20050388.tiff
+  a619aea2ff674167881bd730357458fe:
+    span:
+      start: 424954
+      end: 426081
+    imgnum: 389
+    reference: 20050389.tiff
+  57053da76ff54255be709ac13eb46b88:
+    span:
+      start: 426082
+      end: 427238
+    imgnum: 390
+    reference: 20050390.tiff
+  5268d3ce4b41415ba5dcac7894228cd6:
+    span:
+      start: 427239
+      end: 428364
+    imgnum: 391
+    reference: 20050391.tiff
+  a67433e11b824d36823c1b5969e99b5d:
+    span:
+      start: 428365
+      end: 429440
+    imgnum: 392
+    reference: 20050392.tiff
+  8819803e7ce14c84a722a92db4fb1dba:
+    span:
+      start: 429441
+      end: 430519
+    imgnum: 393
+    reference: 20050393.tiff
+  5b77324b0798419688789e763080383e:
+    span:
+      start: 430520
+      end: 431661
+    imgnum: 394
+    reference: 20050394.tiff
+  0ed54d4d8fdc427e97b2fd8f394c3305:
+    span:
+      start: 431662
+      end: 432720
+    imgnum: 395
+    reference: 20050395.tiff
+  fe0f330aea5942308654ad9926fa8aa2:
+    span:
+      start: 432721
+      end: 433930
+    imgnum: 396
+    reference: 20050396.tiff
+  d1045dc35ed24523aac2a40f663e20c8:
+    span:
+      start: 433931
+      end: 435043
+    imgnum: 397
+    reference: 20050397.tiff
+  00569f7b7c3d457b854d3c498e268d08:
+    span:
+      start: 435044
+      end: 436081
+    imgnum: 398
+    reference: 20050398.tiff
+  1e275b9dd4b6423a9a7d9a0323401fe8:
+    span:
+      start: 436082
+      end: 437171
+    imgnum: 399
+    reference: 20050399.tiff
+  b219ac53d5c94f7c8f677a4a200cae48:
+    span:
+      start: 437172
+      end: 438360
+    imgnum: 400
+    reference: 20050400.tiff
+  a56b8631862640eb897986510d5f5fc8:
+    span:
+      start: 438361
+      end: 439429
+    imgnum: 401
+    reference: 20050401.tiff
+  cd84fdeb76a643f0a2631891367d0de4:
+    span:
+      start: 439430
+      end: 440518
+    imgnum: 402
+    reference: 20050402.tiff
+  b4d39091d1a740efaea1ae807df73527:
+    span:
+      start: 440519
+      end: 441619
+    imgnum: 403
+    reference: 20050403.tiff
+  34502a1a5b2c416ba8ba1d321687c821:
+    span:
+      start: 441620
+      end: 442806
+    imgnum: 404
+    reference: 20050404.tiff
+  e3cec2079cfc46dba153b9170a64c804:
+    span:
+      start: 442807
+      end: 443967
+    imgnum: 405
+    reference: 20050405.tiff
+  36f4a0a93a624088bc37f2e71417e08d:
+    span:
+      start: 443968
+      end: 445132
+    imgnum: 406
+    reference: 20050406.tiff
+  8bfc7b90f59349079664cd5081146f52:
+    span:
+      start: 445133
+      end: 446274
+    imgnum: 407
+    reference: 20050407.tiff
+  41a622efec2648bd89cafe25d5cd8ab1:
+    span:
+      start: 446275
+      end: 447419
+    imgnum: 408
+    reference: 20050408.tiff
+  c4c081bc77194b0f8abafc504e5d9c0b:
+    span:
+      start: 447420
+      end: 448513
+    imgnum: 409
+    reference: 20050409.tiff
+  1b3b9d03cf0d4949ac9c629f1c30d58a:
+    span:
+      start: 448514
+      end: 449668
+    imgnum: 410
+    reference: 20050410.tiff
+  d6694410ed2d421d9deb0ee4c84d667f:
+    span:
+      start: 449669
+      end: 450756
+    imgnum: 411
+    reference: 20050411.tiff
+  96ac9c90bc1b4610ac6fcf2f0e8bc336:
+    span:
+      start: 450757
+      end: 451864
+    imgnum: 412
+    reference: 20050412.tiff
+  0adc7e614e3c43df9ecf154356c82141:
+    span:
+      start: 451865
+      end: 452939
+    imgnum: 413
+    reference: 20050413.tiff
+  1231ae8436aa4e31bc0ea5f01604168b:
+    span:
+      start: 452940
+      end: 454051
+    imgnum: 414
+    reference: 20050414.tiff
+  212aec3bf4804e5883c28cd51d1a8a63:
+    span:
+      start: 454052
+      end: 455088
+    imgnum: 415
+    reference: 20050415.tiff
+  0ac3944f653648cd9a5a81ff7555790b:
+    span:
+      start: 455089
+      end: 456115
+    imgnum: 416
+    reference: 20050416.tiff
+  4c362bbb2d4848fd8884c0f672a87168:
+    span:
+      start: 456116
+      end: 457082
+    imgnum: 417
+    reference: 20050417.tiff
+  6dcfdf4360a7489bb42a2f6ae9dbfd83:
+    span:
+      start: 457083
+      end: 458130
+    imgnum: 418
+    reference: 20050418.tiff
+  6da290326afe4b7c898857e565d2bca2:
+    span:
+      start: 458131
+      end: 459206
+    imgnum: 419
+    reference: 20050419.tiff
+  77ac321df87e4e33ae9cb725a4edb1f6:
+    span:
+      start: 459207
+      end: 460287
+    imgnum: 420
+    reference: 20050420.tiff
+  187117353e054e4cb1e5a33b8845dddd:
+    span:
+      start: 460288
+      end: 461332
+    imgnum: 421
+    reference: 20050421.tiff
+  653cab99854945d1822dafc7cd8351b4:
+    span:
+      start: 461333
+      end: 462276
+    imgnum: 422
+    reference: 20050422.tiff
+  2cf0a8ddf79f4534acc57fd3fd093c05:
+    span:
+      start: 462277
+      end: 463339
+    imgnum: 423
+    reference: 20050423.tiff
+  7cd1427795b846dca9c07a9c8fa3a50f:
+    span:
+      start: 463340
+      end: 464489
+    imgnum: 424
+    reference: 20050424.tiff
+  54cd0377ba17461bb3f8b6f07a788862:
+    span:
+      start: 464490
+      end: 465597
+    imgnum: 425
+    reference: 20050425.tiff
+  6fa0bd41ee1a4729b5c30656e83784c8:
+    span:
+      start: 465598
+      end: 466736
+    imgnum: 426
+    reference: 20050426.tiff
+  864aea07bd0b4c9e9af7136ab0d08320:
+    span:
+      start: 466737
+      end: 467861
+    imgnum: 427
+    reference: 20050427.tiff
+  7935ffd55b494d7abbe56239f7b1800d:
+    span:
+      start: 467862
+      end: 468959
+    imgnum: 428
+    reference: 20050428.tiff
+  c40e1c5b741646f5b8686ecf4decc21e:
+    span:
+      start: 468960
+      end: 470064
+    imgnum: 429
+    reference: 20050429.tiff
+  d9cbd142736c4c0294d488502485cb0d:
+    span:
+      start: 470065
+      end: 471250
+    imgnum: 430
+    reference: 20050430.tiff
+  ce53f3712b7643f19b7bc517276f1eef:
+    span:
+      start: 471251
+      end: 472462
+    imgnum: 431
+    reference: 20050431.tiff
+  d0d43b2760a2499899d8e47e05a100a1:
+    span:
+      start: 472463
+      end: 473620
+    imgnum: 432
+    reference: 20050432.tiff
+  122be2b34eaf4d8e93a5faa0395b8279:
+    span:
+      start: 473621
+      end: 474792
+    imgnum: 433
+    reference: 20050433.tiff
+  5247269e60214220b24adecad3bff264:
+    span:
+      start: 474793
+      end: 475870
+    imgnum: 434
+    reference: 20050434.tiff
+  19851dcdcf5d4b79a7150d40ec75ca82:
+    span:
+      start: 475871
+      end: 476958
+    imgnum: 435
+    reference: 20050435.tiff
+  b6ec1eccc9c941d29d16c0e12dba4d03:
+    span:
+      start: 476959
+      end: 478135
+    imgnum: 436
+    reference: 20050436.tiff
+  08380351d17140b2b9b3b27e2b6fcc43:
+    span:
+      start: 478136
+      end: 479325
+    imgnum: 437
+    reference: 20050437.tiff
+  c89ad73925c54090b12e327c5d22932c:
+    span:
+      start: 479326
+      end: 480420
+    imgnum: 438
+    reference: 20050438.tiff
+  18308b59aa614e38ad51ea5b98bb9140:
+    span:
+      start: 480421
+      end: 481522
+    imgnum: 439
+    reference: 20050439.tiff
+  0616762d84f64d7e8021cf4fd6b3339a:
+    span:
+      start: 481523
+      end: 482668
+    imgnum: 440
+    reference: 20050440.tiff
+  7d32f4518e5541219f85d8f330b433a5:
+    span:
+      start: 482669
+      end: 483778
+    imgnum: 441
+    reference: 20050441.tiff
+  7f4c0086d635455984751ed902e9daa6:
+    span:
+      start: 483779
+      end: 484872
+    imgnum: 442
+    reference: 20050442.tiff
+  14f593d2cd7d4633baea9ee7297c6394:
+    span:
+      start: 484873
+      end: 485972
+    imgnum: 443
+    reference: 20050443.tiff
+  cafb922ad2ec4bfa8b9097fa20c01eab:
+    span:
+      start: 485973
+      end: 487041
+    imgnum: 444
+    reference: 20050444.tiff
+  a8af50339dbe4dafa3e36b32ed3b7766:
+    span:
+      start: 487042
+      end: 488161
+    imgnum: 445
+    reference: 20050445.tiff
+  823fed1f21754a10aea122a88c055c2e:
+    span:
+      start: 488162
+      end: 489355
+    imgnum: 446
+    reference: 20050446.tiff
+  b0babff5f8294aab85c0c843d8aaa61c:
+    span:
+      start: 489356
+      end: 490447
+    imgnum: 447
+    reference: 20050447.tiff
+  6142f8922ba549db8891b459b6c8951a:
+    span:
+      start: 490448
+      end: 491563
+    imgnum: 448
+    reference: 20050448.tiff
+  b7625e59b45a493886e1492c0ca3a738:
+    span:
+      start: 491564
+      end: 492621
+    imgnum: 449
+    reference: 20050449.tiff
+  1ebd1a45c7ef471aaf0ffbe23cdf2537:
+    span:
+      start: 492622
+      end: 493688
+    imgnum: 450
+    reference: 20050450.tiff
+  d751e67afb5442ca9501d466a92d04d4:
+    span:
+      start: 493689
+      end: 494796
+    imgnum: 451
+    reference: 20050451.tiff
+  0a4dcd2feea2486283df020cd6807a64:
+    span:
+      start: 494797
+      end: 495908
+    imgnum: 452
+    reference: 20050452.tiff
+  3a498cbe1b244e7bb5f2d98cd7ea43c9:
+    span:
+      start: 495909
+      end: 497114
+    imgnum: 453
+    reference: 20050453.tiff
+  b37d7dc865f14b99a6bddb76333f5d8d:
+    span:
+      start: 497115
+      end: 498283
+    imgnum: 454
+    reference: 20050454.tiff
+  a357051f830140ffae020ffd05c83cda:
+    span:
+      start: 498284
+      end: 499386
+    imgnum: 455
+    reference: 20050455.tiff
+  719e8bffd95d414b96729f5e5a6fffed:
+    span:
+      start: 499387
+      end: 500496
+    imgnum: 456
+    reference: 20050456.tiff
+  d82704fee1254c259195d288b304f0f5:
+    span:
+      start: 500497
+      end: 501563
+    imgnum: 457
+    reference: 20050457.tiff
+  d7063dc29e3b46f4bdf6271148635c65:
+    span:
+      start: 501564
+      end: 502664
+    imgnum: 458
+    reference: 20050458.tiff
+  d33f9bf4a90b47acb611f9d1b89ef89c:
+    span:
+      start: 502665
+      end: 503773
+    imgnum: 459
+    reference: 20050459.tiff
+  39eab2b3bb0d4131acdc0b03eaefa41b:
+    span:
+      start: 503774
+      end: 504923
+    imgnum: 460
+    reference: 20050460.tiff
+  d546c9b4a5ab44aea81b95b14f2867e2:
+    span:
+      start: 504924
+      end: 505995
+    imgnum: 461
+    reference: 20050461.tiff
+  7f6cb014665641e3bb2cbbaa1ea7f7d5:
+    span:
+      start: 505996
+      end: 507033
+    imgnum: 462
+    reference: 20050462.tiff
+  4ba08068797348ff8cb2d573376d3686:
+    span:
+      start: 507034
+      end: 508081
+    imgnum: 463
+    reference: 20050463.tiff
+  c457f49a46284da39657723d562d0252:
+    span:
+      start: 508082
+      end: 509093
+    imgnum: 464
+    reference: 20050464.tiff
+  57aabc8ac37a4f068e4e97a11def8f1a:
+    span:
+      start: 509094
+      end: 510174
+    imgnum: 465
+    reference: 20050465.tiff
+  6916905b62754e04be387fa26f2ba646:
+    span:
+      start: 510175
+      end: 511228
+    imgnum: 466
+    reference: 20050466.tiff
+  7b64453911e84a52bdd903a9d4edaea6:
+    span:
+      start: 511229
+      end: 512314
+    imgnum: 467
+    reference: 20050467.tiff
+  50d2921e0c314db6bb5737ed88da7cbf:
+    span:
+      start: 512315
+      end: 513416
+    imgnum: 468
+    reference: 20050468.tiff
+  1601b3e4815844039fcc989444af253a:
+    span:
+      start: 513417
+      end: 514484
+    imgnum: 469
+    reference: 20050469.tiff
+  4a84950c40d6429283e12b7414cabea6:
+    span:
+      start: 514485
+      end: 515633
+    imgnum: 470
+    reference: 20050470.tiff
+  e776adba97274a3bb4ba841501f8c3d1:
+    span:
+      start: 515634
+      end: 516712
+    imgnum: 471
+    reference: 20050471.tiff
+  baa2ee8bab27466194d75ed169b5a9a0:
+    span:
+      start: 516713
+      end: 517793
+    imgnum: 472
+    reference: 20050472.tiff
+  012bfb88cc5b473d87a8e9b4ffe72996:
+    span:
+      start: 517794
+      end: 518837
+    imgnum: 473
+    reference: 20050473.tiff
+  711ac7c1a6074e1bbf351983a62034a2:
+    span:
+      start: 518838
+      end: 520037
+    imgnum: 474
+    reference: 20050474.tiff
+  407f9439325241bfafbfc1b78b215fb9:
+    span:
+      start: 520038
+      end: 521128
+    imgnum: 475
+    reference: 20050475.tiff
+  a7351e666cd940b88046aa503e0c96b9:
+    span:
+      start: 521129
+      end: 522293
+    imgnum: 476
+    reference: 20050476.tiff
+  7c878948dd9d47119aef476ffc1b3308:
+    span:
+      start: 522294
+      end: 523481
+    imgnum: 477
+    reference: 20050477.tiff
+  81c9d2cf6ef94e89a50207293c43a1d8:
+    span:
+      start: 523482
+      end: 524636
+    imgnum: 478
+    reference: 20050478.tiff
+  2418986135da42bc91fce4cbdffc82a0:
+    span:
+      start: 524637
+      end: 525853
+    imgnum: 479
+    reference: 20050479.tiff
+  304b976754024569ab6a2b72a1b99060:
+    span:
+      start: 525854
+      end: 527007
+    imgnum: 480
+    reference: 20050480.tiff
+  0a5eec67201c4af78b7409e8cd04d6d4:
+    span:
+      start: 527008
+      end: 528183
+    imgnum: 481
+    reference: 20050481.tiff
+  feae5571d8cc4b90ab352fc0bc90e898:
+    span:
+      start: 528184
+      end: 529274
+    imgnum: 482
+    reference: 20050482.tiff
+  23371a946ae145678fbe13004015c73c:
+    span:
+      start: 529275
+      end: 530360
+    imgnum: 483
+    reference: 20050483.tiff
+  9d8413d5d82042be922d6e99d7b9f617:
+    span:
+      start: 530361
+      end: 531496
+    imgnum: 484
+    reference: 20050484.tiff
+  be99bb8198004299968d45816491fd8e:
+    span:
+      start: 531497
+      end: 532587
+    imgnum: 485
+    reference: 20050485.tiff
+  9827a96f861447b88cc1d88af7dbb6f8:
+    span:
+      start: 532588
+      end: 533622
+    imgnum: 486
+    reference: 20050486.tiff
+  c71c260d50644b44bf1fa077fbb1315e:
+    span:
+      start: 533623
+      end: 534695
+    imgnum: 487
+    reference: 20050487.tiff
+  0ab01c17aef04cf19c47cb57f7b0faaa:
+    span:
+      start: 534696
+      end: 535815
+    imgnum: 488
+    reference: 20050488.tiff
+  53f2387479474c2f8cea9b14f71e2b0e:
+    span:
+      start: 535816
+      end: 536881
+    imgnum: 489
+    reference: 20050489.tiff
+  60a217e5fcc248408fffbc9170b0d373:
+    span:
+      start: 536882
+      end: 538015
+    imgnum: 490
+    reference: 20050490.tiff
+  ac04a1cbf52a4e92810644d1cc16b1a4:
+    span:
+      start: 538016
+      end: 539078
+    imgnum: 491
+    reference: 20050491.tiff
+  af7fd6a72eaf470983d0647a409a04c4:
+    span:
+      start: 539079
+      end: 540291
+    imgnum: 492
+    reference: 20050492.tiff
+  835b4d67b9a24f9da6255ae7f65b78a8:
+    span:
+      start: 540292
+      end: 541436
+    imgnum: 493
+    reference: 20050493.tiff
+  30f64406815d453bbdad0f4d0775855a:
+    span:
+      start: 541437
+      end: 542553
+    imgnum: 494
+    reference: 20050494.tiff
+  55ffdb88fc014f698dbff99950c29846:
+    span:
+      start: 542554
+      end: 543619
+    imgnum: 495
+    reference: 20050495.tiff
+  dc89c67cb4c04d5b984dc3b7d42fc652:
+    span:
+      start: 543620
+      end: 544698
+    imgnum: 496
+    reference: 20050496.tiff
+  3eb51b60d3b84ad890f6d114fc2c7d7b:
+    span:
+      start: 544699
+      end: 545841
+    imgnum: 497
+    reference: 20050497.tiff
+  65136a29520c456d862801c9cc64c1bb:
+    span:
+      start: 545842
+      end: 546943
+    imgnum: 498
+    reference: 20050498.tiff
+  8d750c67d37b40b796af67ff7afc122a:
+    span:
+      start: 546944
+      end: 548096
+    imgnum: 499
+    reference: 20050499.tiff
+  b767a79d796d40c3a0ff4cb58111abd0:
+    span:
+      start: 548097
+      end: 549268
+    imgnum: 500
+    reference: 20050500.tiff
+  58a28742573343ba86f60944a0db08fd:
+    span:
+      start: 549269
+      end: 550377
+    imgnum: 501
+    reference: 20050501.tiff
+  fb939102641248aeb11f726beed79a72:
+    span:
+      start: 550378
+      end: 551502
+    imgnum: 502
+    reference: 20050502.tiff
+  b0adbae4ae31486ea34241a544a1d86e:
+    span:
+      start: 551503
+      end: 552546
+    imgnum: 503
+    reference: 20050503.tiff
+  142df34e302643a38ea4051c443b2e17:
+    span:
+      start: 552547
+      end: 553665
+    imgnum: 504
+    reference: 20050504.tiff
+  0007090653d9495391010508dfb3d299:
+    span:
+      start: 553666
+      end: 554766
+    imgnum: 505
+    reference: 20050505.tiff
+  4986c82afacb472fb629bc427a607975:
+    span:
+      start: 554767
+      end: 555890
+    imgnum: 506
+    reference: 20050506.tiff
+  1848c6258f6d4c689f32e14da0c7cbad:
+    span:
+      start: 555891
+      end: 557029
+    imgnum: 507
+    reference: 20050507.tiff
+  7a1a9e2f4d6d4d49813fc2a9c797b39d:
+    span:
+      start: 557030
+      end: 558084
+    imgnum: 508
+    reference: 20050508.tiff
+  34a8f2bb92eb4c1680dc13557ea1ed6c:
+    span:
+      start: 558085
+      end: 559131
+    imgnum: 509
+    reference: 20050509.tiff
+  b73ca642184148fd94a15c947eb935f9:
+    span:
+      start: 559132
+      end: 560198
+    imgnum: 510
+    reference: 20050510.tiff
+  aedcdecc160c4a27a1c65a8109d7f8d3:
+    span:
+      start: 560199
+      end: 561242
+    imgnum: 511
+    reference: 20050511.tiff
+  54bb74d991b8416b999d76837a7cf7fa:
+    span:
+      start: 561243
+      end: 562379
+    imgnum: 512
+    reference: 20050512.tiff
+  961c67733eb34d3bb49be7dfefe75694:
+    span:
+      start: 562380
+      end: 563377
+    imgnum: 513
+    reference: 20050513.tiff
+  3d740a652b3440c4bb6353a580ef575c:
+    span:
+      start: 563378
+      end: 564459
+    imgnum: 514
+    reference: 20050514.tiff
+  16b34af733ca4c289436271bced6738c:
+    span:
+      start: 564460
+      end: 565459
+    imgnum: 515
+    reference: 20050515.tiff
+  b7a3e976e3944726b0d950fdc3286738:
+    span:
+      start: 565460
+      end: 566552
+    imgnum: 516
+    reference: 20050516.tiff
+  42005a655fd04716bf9c93780b362798:
+    span:
+      start: 566553
+      end: 567555
+    imgnum: 517
+    reference: 20050517.tiff
+  057ed93e6f7541a39dacf23951e050d5:
+    span:
+      start: 567556
+      end: 568620
+    imgnum: 518
+    reference: 20050518.tiff
+  ee9a3cb96ce94af0a73d93178ddf3691:
+    span:
+      start: 568621
+      end: 569653
+    imgnum: 519
+    reference: 20050519.tiff
+  bcb0a08a7c6c4c8cba04166095102334:
+    span:
+      start: 569654
+      end: 570761
+    imgnum: 520
+    reference: 20050520.tiff
+  5310f17902e742e4acc432b987eda99a:
+    span:
+      start: 570762
+      end: 571863
+    imgnum: 521
+    reference: 20050521.tiff
+  29c4f72513c94199b18c328d876c7c37:
+    span:
+      start: 571864
+      end: 572979
+    imgnum: 522
+    reference: 20050522.tiff
+  5a3bd92a55494fa7bc6db6bb592175de:
+    span:
+      start: 572980
+      end: 574042
+    imgnum: 523
+    reference: 20050523.tiff
+  54b525fd9d3e4fd5bb1b68b22c403602:
+    span:
+      start: 574043
+      end: 575175
+    imgnum: 524
+    reference: 20050524.tiff
+  fbd04fa855ea426eb2ccd35b53909273:
+    span:
+      start: 575176
+      end: 576227
+    imgnum: 525
+    reference: 20050525.tiff
+  39029afb7a2d4c3fbb81b0b097e67a2d:
+    span:
+      start: 576228
+      end: 577328
+    imgnum: 526
+    reference: 20050526.tiff
+  3178f061222440ce80201b05288435ae:
+    span:
+      start: 577329
+      end: 578345
+    imgnum: 527
+    reference: 20050527.tiff
+  29ae2da3dbc540949f5eae42403dcf1a:
+    span:
+      start: 578346
+      end: 579459
+    imgnum: 528
+    reference: 20050528.tiff
+  344b6ec59d624b40bd22b92b41f6255a:
+    span:
+      start: 579460
+      end: 580568
+    imgnum: 529
+    reference: 20050529.tiff
+  168fbcce52864dffb25db6227b31ecaa:
+    span:
+      start: 580569
+      end: 581718
+    imgnum: 530
+    reference: 20050530.tiff
+  48995bcd0d714343bf2b2f06be6ae2ae:
+    span:
+      start: 581719
+      end: 582837
+    imgnum: 531
+    reference: 20050531.tiff
+  60d1b91214cb4b5ca44ecdad24b37ab6:
+    span:
+      start: 582838
+      end: 583955
+    imgnum: 532
+    reference: 20050532.tiff
+  8d5c6bd09cd0459d8fb994e4aadd09fa:
+    span:
+      start: 583956
+      end: 585004
+    imgnum: 533
+    reference: 20050533.tiff
+  4ac88a5bc0984719875c1e463cf0da61:
+    span:
+      start: 585005
+      end: 586135
+    imgnum: 534
+    reference: 20050534.tiff
+  6c90884807144ad6b596fb69e7ce986a:
+    span:
+      start: 586136
+      end: 587191
+    imgnum: 535
+    reference: 20050535.tiff
+  1f34dc1b53f84a45b090e7fb1ef377e6:
+    span:
+      start: 587192
+      end: 588271
+    imgnum: 536
+    reference: 20050536.tiff
+  55af8d1bdb444e76a347293f79fea9b1:
+    span:
+      start: 588272
+      end: 589397
+    imgnum: 537
+    reference: 20050537.tiff
+  b4d0a66768904a93954e47ec2ea32427:
+    span:
+      start: 589398
+      end: 590542
+    imgnum: 538
+    reference: 20050538.tiff
+  8ccfcaeb7dfa456395850db1816fc32a:
+    span:
+      start: 590543
+      end: 591689
+    imgnum: 539
+    reference: 20050539.tiff
+  e7bc70bc765a4b6586e5a7676853ea8e:
+    span:
+      start: 591690
+      end: 592760
+    imgnum: 540
+    reference: 20050540.tiff
+  579cf5f256d84f968aa6f742ccc0d10f:
+    span:
+      start: 592761
+      end: 593844
+    imgnum: 541
+    reference: 20050541.tiff
+  93e4fc46035c496e97506b8ff204b879:
+    span:
+      start: 593845
+      end: 594981
+    imgnum: 542
+    reference: 20050542.tiff
+  6f1ede0d202642a793f10f77d440ae1f:
+    span:
+      start: 594982
+      end: 596097
+    imgnum: 543
+    reference: 20050543.tiff
+  8fc1703fe316445288594d217817b6e7:
+    span:
+      start: 596098
+      end: 597147
+    imgnum: 544
+    reference: 20050544.tiff
+  13e37d6eb7bc453d8e9354c01ebe0e39:
+    span:
+      start: 597148
+      end: 598117
+    imgnum: 545
+    reference: 20050545.tiff
+  29b3b425aeba4f95929c39968ee53044:
+    span:
+      start: 598118
+      end: 599106
+    imgnum: 546
+    reference: 20050546.tiff
+  ad394806a696499ea7be02ba2f3b878d:
+    span:
+      start: 599107
+      end: 600207
+    imgnum: 547
+    reference: 20050547.tiff
+  4f9a7b8fe60d40528daade1e82eef4d3:
+    span:
+      start: 600208
+      end: 601289
+    imgnum: 548
+    reference: 20050548.tiff
+  15fa28ff142f4974abd25e0e073a7595:
+    span:
+      start: 601290
+      end: 602433
+    imgnum: 549
+    reference: 20050549.tiff
+  46a50e1400a645bfa80749d4e421a682:
+    span:
+      start: 602434
+      end: 603557
+    imgnum: 550
+    reference: 20050550.tiff
+  ba96cba6a38247569c179c17341cddaf:
+    span:
+      start: 603558
+      end: 604719
+    imgnum: 551
+    reference: 20050551.tiff
+  d30761031e11425fb03833b980333368:
+    span:
+      start: 604720
+      end: 605809
+    imgnum: 552
+    reference: 20050552.tiff
+  ec8fdefcff9e41ce94d1cf75960e6f54:
+    span:
+      start: 605810
+      end: 606922
+    imgnum: 553
+    reference: 20050553.tiff
+  5ac84601f9bd4317aeefc825c2ef11df:
+    span:
+      start: 606923
+      end: 608003
+    imgnum: 554
+    reference: 20050554.tiff
+  e38e6d7463d64953821534e585c64ac9:
+    span:
+      start: 608004
+      end: 609157
+    imgnum: 555
+    reference: 20050555.tiff
+  dd3a582b0ee54dcd82cbcabce4e72e23:
+    span:
+      start: 609158
+      end: 610340
+    imgnum: 556
+    reference: 20050556.tiff
+  479cf7761aa449a4b5484896e6cb21f9:
+    span:
+      start: 610341
+      end: 611255
+    imgnum: 557
+    reference: 20050557.tiff
+  7c42792d9d0b4e83aa3452e5a6688039:
+    span:
+      start: 611256
+      end: 612288
+    imgnum: 558
+    reference: 20050558.tiff
+  1ad1bff4d77e480899b7aa5c6355f457:
+    span:
+      start: 612289
+      end: 613397
+    imgnum: 559
+    reference: 20050559.tiff
+  f10e1a47635445979bfb8357a3ca0a0c:
+    span:
+      start: 613398
+      end: 614475
+    imgnum: 560
+    reference: 20050560.tiff
+  c259136392a24586869ca94798d36768:
+    span:
+      start: 614476
+      end: 615568
+    imgnum: 561
+    reference: 20050561.tiff
+  ec75c8fb45e14bf7ab428c89679d573b:
+    span:
+      start: 615569
+      end: 616649
+    imgnum: 562
+    reference: 20050562.tiff
+  b94df24d4e554b5a958faea43ea435e6:
+    span:
+      start: 616650
+      end: 617639
+    imgnum: 563
+    reference: 20050563.tiff
+  32b738fc955c4a30b6725cbdcdb7fdbc:
+    span:
+      start: 617640
+      end: 618753
+    imgnum: 564
+    reference: 20050564.tiff
+  a385f608e00d4fdf86ee07a5ffa01286:
+    span:
+      start: 618754
+      end: 619838
+    imgnum: 565
+    reference: 20050565.tiff
+  f437406c1f0144b183c3fa2236c1eeab:
+    span:
+      start: 619839
+      end: 620987
+    imgnum: 566
+    reference: 20050566.tiff
+  d4c533dac35241c7bd11e8bc17e8bd4c:
+    span:
+      start: 620988
+      end: 622070
+    imgnum: 567
+    reference: 20050567.tiff
+  4c0c0341fb3c434bb5c4a4270b3e370d:
+    span:
+      start: 622071
+      end: 623172
+    imgnum: 568
+    reference: 20050568.tiff
+  ddacc3ec3fc74b328a010dc7d5de535d:
+    span:
+      start: 623173
+      end: 624175
+    imgnum: 569
+    reference: 20050569.tiff
+  54bb66af17d74aefb4b504c59a887d5f:
+    span:
+      start: 624176
+      end: 625203
+    imgnum: 570
+    reference: 20050570.tiff
+  65e9ee163a554a679be4fa686a619a58:
+    span:
+      start: 625204
+      end: 626298
+    imgnum: 571
+    reference: 20050571.tiff
+  4f1234db95e24e96800ff69da3f12c2d:
+    span:
+      start: 626299
+      end: 627393
+    imgnum: 572
+    reference: 20050572.tiff
+  69e4ea82638848ae83251ba3136fae83:
+    span:
+      start: 627394
+      end: 628538
+    imgnum: 573
+    reference: 20050573.tiff
+  649be4640fdb476994ec2ba557e51584:
+    span:
+      start: 628539
+      end: 629621
+    imgnum: 574
+    reference: 20050574.tiff
+  6309ff518d804564ab3bc6e19debce18:
+    span:
+      start: 629622
+      end: 630737
+    imgnum: 575
+    reference: 20050575.tiff
+  d9e7484b6f4f416391a1a539448fd14e:
+    span:
+      start: 630738
+      end: 631866
+    imgnum: 576
+    reference: 20050576.tiff
+  98c5bda8a1944e4c92cb5312a1f83470:
+    span:
+      start: 631867
+      end: 632966
+    imgnum: 577
+    reference: 20050577.tiff
+  53b630c8cbbd49b7b1770d50f44aec62:
+    span:
+      start: 632967
+      end: 634050
+    imgnum: 578
+    reference: 20050578.tiff
+  6f49a6fac9104448ba2654d6c2f0e2f6:
+    span:
+      start: 634051
+      end: 635145
+    imgnum: 579
+    reference: 20050579.tiff
+  bfde67b6114841c29b47cede277656c1:
+    span:
+      start: 635146
+      end: 636233
+    imgnum: 580
+    reference: 20050580.tiff
+  8c0fe80cfad744218daa1fe42e0ae3cf:
+    span:
+      start: 636234
+      end: 637294
+    imgnum: 581
+    reference: 20050581.tiff
+  0d3cf1596edb490abde0e4b59a2bdd91:
+    span:
+      start: 637295
+      end: 638337
+    imgnum: 582
+    reference: 20050582.tiff
+  2c8c084a37b1408ab710c96828353653:
+    span:
+      start: 638338
+      end: 639455
+    imgnum: 583
+    reference: 20050583.tiff
+  4184739d159f41fbb9d7856d42611687:
+    span:
+      start: 639456
+      end: 640530
+    imgnum: 584
+    reference: 20050584.tiff
+  cc27c7d40a4c4905bd85a467c741a46a:
+    span:
+      start: 640531
+      end: 641695
+    imgnum: 585
+    reference: 20050585.tiff
+  31fbf4f90aee4b01a9262b852b3165bd:
+    span:
+      start: 641696
+      end: 642796
+    imgnum: 586
+    reference: 20050586.tiff
+  411f84aacbfb4fddb7c50d57286fdeb2:
+    span:
+      start: 642797
+      end: 643770
+    imgnum: 587
+    reference: 20050587.tiff
+  1c4e14f4a6ec4e38b419487025ed3fae:
+    span:
+      start: 643771
+      end: 644965
+    imgnum: 588
+    reference: 20050588.tiff
+  bb6b7df4bd6e4e11912f3ac035c4e77c:
+    span:
+      start: 644966
+      end: 646054
+    imgnum: 589
+    reference: 20050589.tiff
+  3736032b47124d2e93a887ef2d636515:
+    span:
+      start: 646055
+      end: 647154
+    imgnum: 590
+    reference: 20050590.tiff
+  37cc589410da4b378a704445c25ee0a4:
+    span:
+      start: 647155
+      end: 648176
+    imgnum: 591
+    reference: 20050591.tiff
+  d8f08e0b93ed473fac401713824d4ae2:
+    span:
+      start: 648177
+      end: 649246
+    imgnum: 592
+    reference: 20050592.tiff
+  d1612d3b53c841de92649b10b290693c:
+    span:
+      start: 649247
+      end: 650405
+    imgnum: 593
+    reference: 20050593.tiff
+  f766f17345264fb983211b25402722ed:
+    span:
+      start: 650406
+      end: 651554
+    imgnum: 594
+    reference: 20050594.tiff
+  384412d420f041eab1213967628d6d2e:
+    span:
+      start: 651555
+      end: 652672
+    imgnum: 595
+    reference: 20050595.tiff
+  69d27e5556aa4753a87dffa60d440b18:
+    span:
+      start: 652673
+      end: 653840
+    imgnum: 596
+    reference: 20050596.tiff
+  a3f2d2e2488c4a58936647974acad09b:
+    span:
+      start: 653841
+      end: 654982
+    imgnum: 597
+    reference: 20050597.tiff
+  ef64acd36e5c438381d390d257512e5a:
+    span:
+      start: 654983
+      end: 656215
+    imgnum: 598
+    reference: 20050598.tiff
+  353e36adddf242deac46f3363e8f51ad:
+    span:
+      start: 656216
+      end: 657241
+    imgnum: 599
+    reference: 20050599.tiff
+  a17840217b904134964cc9aeae888b69:
+    span:
+      start: 657242
+      end: 658506
+    imgnum: 600
+    reference: 20050600.tiff
+  e9c9dceb54fc479abbb15808ff415c4c:
+    span:
+      start: 658507
+      end: 659613
+    imgnum: 601
+    reference: 20050601.tiff
+  072a9643445d4109887f878d6a19497b:
+    span:
+      start: 659614
+      end: 660780
+    imgnum: 602
+    reference: 20050602.tiff
+  d92178606a3545efa58210d04964988f:
+    span:
+      start: 660781
+      end: 661871
+    imgnum: 603
+    reference: 20050603.tiff
+  5247870bc7af401197681709352f4838:
+    span:
+      start: 661872
+      end: 662982
+    imgnum: 604
+    reference: 20050604.tiff
+  0d4dfb0fe07c4ddb81df889151da1fd4:
+    span:
+      start: 662983
+      end: 664103
+    imgnum: 605
+    reference: 20050605.tiff
+  6f6b6c7fe24e433295a961d946a3b9a5:
+    span:
+      start: 664104
+      end: 665259
+    imgnum: 606
+    reference: 20050606.tiff
+  e02ea30d58e14907bb61fcd85c562e40:
+    span:
+      start: 665260
+      end: 666404
+    imgnum: 607
+    reference: 20050607.tiff
+  b236609ff4ec4c09882776b28cf546e6:
+    span:
+      start: 666405
+      end: 667554
+    imgnum: 608
+    reference: 20050608.tiff
+  c26d86a64af9449c8807c67e548a4bdf:
+    span:
+      start: 667555
+      end: 668732
+    imgnum: 609
+    reference: 20050609.tiff
+  ee4fbd161cc240d1a742d87f547b3881:
+    span:
+      start: 668733
+      end: 669854
+    imgnum: 610
+    reference: 20050610.tiff
+  99f30fd49ed644dd95e6a722b52845c7:
+    span:
+      start: 669855
+      end: 670953
+    imgnum: 611
+    reference: 20050611.tiff
+  5163b128e7e94485a43d370961e68dea:
+    span:
+      start: 670954
+      end: 672043
+    imgnum: 612
+    reference: 20050612.tiff
+  dd7962e0524f4db19c8634771627c2da:
+    span:
+      start: 672044
+      end: 673154
+    imgnum: 613
+    reference: 20050613.tiff
+  384fa9f3896549e382a70f99525e2753:
+    span:
+      start: 673155
+      end: 674233
+    imgnum: 614
+    reference: 20050614.tiff
+  e0b904e62c034ea4b3032b8bb948f0d9:
+    span:
+      start: 674234
+      end: 675323
+    imgnum: 615
+    reference: 20050615.tiff
+  01c8fba68db94e649286484db513e35c:
+    span:
+      start: 675324
+      end: 676453
+    imgnum: 616
+    reference: 20050616.tiff
+  0f71039efd6445b38933c6074c7d5a87:
+    span:
+      start: 676454
+      end: 677523
+    imgnum: 617
+    reference: 20050617.tiff
+  d82b830a1ff14f858b39e51fdc5c3695:
+    span:
+      start: 677524
+      end: 678692
+    imgnum: 618
+    reference: 20050618.tiff
+  bb9ec6adaec54db9a7e2b934783166f2:
+    span:
+      start: 678693
+      end: 679857
+    imgnum: 619
+    reference: 20050619.tiff
+  925f98b0d3d14b33a8301bdd34aa566c:
+    span:
+      start: 679858
+      end: 680992
+    imgnum: 620
+    reference: 20050620.tiff
+  0e10103f542c4b02b7918dfac23c82e1:
+    span:
+      start: 680993
+      end: 682078
+    imgnum: 621
+    reference: 20050621.tiff
+  6dc5cce3f737410da5a69dce5c4ec938:
+    span:
+      start: 682079
+      end: 683226
+    imgnum: 622
+    reference: 20050622.tiff
+  f0b83665a59a45929586e0d717497240:
+    span:
+      start: 683227
+      end: 684323
+    imgnum: 623
+    reference: 20050623.tiff
+  cf5e0c5b802642fa821cae725049d53c:
+    span:
+      start: 684324
+      end: 685381
+    imgnum: 624
+    reference: 20050624.tiff
+  9e04a374fba54dcab93498914a0b44b0:
+    span:
+      start: 685382
+      end: 686443
+    imgnum: 625
+    reference: 20050625.tiff
+  c909bfa9c7b44469ba2e9e10c4282595:
+    span:
+      start: 686444
+      end: 687541
+    imgnum: 626
+    reference: 20050626.tiff
+  0fdf7ffc0d9e40c79526ac25a539c580:
+    span:
+      start: 687542
+      end: 688589
+    imgnum: 627
+    reference: 20050627.tiff
+  62017313dafb43c9a570459457bbbcc9:
+    span:
+      start: 688590
+      end: 689597
+    imgnum: 628
+    reference: 20050628.tiff
+  1fdfde2d4cb54ecf9022be4778edcc29:
+    span:
+      start: 689598
+      end: 690682
+    imgnum: 629
+    reference: 20050629.tiff
+  2f4e6558d37642ec9531424ec3e99145:
+    span:
+      start: 690683
+      end: 691759
+    imgnum: 630
+    reference: 20050630.tiff
+  0fa975105c9d4128b8274211d86742aa:
+    span:
+      start: 691760
+      end: 693070
+    imgnum: 631
+    reference: 20050631.tiff
+  2e466700f2cf418494cbabc17a2bbab5:
+    span:
+      start: 693071
+      end: 694162
+    imgnum: 632
+    reference: 20050632.tiff
+  d3f2bd4fe4024934ab6a320c08e45e8c:
+    span:
+      start: 694163
+      end: 695180
+    imgnum: 633
+    reference: 20050633.tiff
+  13e63dd433134433a5526e784b9bf5fc:
+    span:
+      start: 695181
+      end: 696236
+    imgnum: 634
+    reference: 20050634.tiff
+  8ff57b8f664242c992c8011883ae0040:
+    span:
+      start: 696237
+      end: 697189
+    imgnum: 635
+    reference: 20050635.tiff
+  b679bddab9984c5186ef97e372493305:
+    span:
+      start: 697190
+      end: 698267
+    imgnum: 636
+    reference: 20050636.tiff
+  450dd756006f4e44affa75f424399938:
+    span:
+      start: 698268
+      end: 699362
+    imgnum: 637
+    reference: 20050637.tiff
+  ba33681fa88f427ab6c550dcde92b93d:
+    span:
+      start: 699363
+      end: 700641
+    imgnum: 638
+    reference: 20050638.tiff
+  34d3c457ee294999939ea3f51d59f5fe:
+    span:
+      start: 700642
+      end: 701734
+    imgnum: 639
+    reference: 20050639.tiff
+  b99d8b0d4e634447bafe01f050bcbd4e:
+    span:
+      start: 701735
+      end: 702843
+    imgnum: 640
+    reference: 20050640.tiff
+  9a2ba5eeea8c427888c9fe6219eeaa9b:
+    span:
+      start: 702844
+      end: 703956
+    imgnum: 641
+    reference: 20050641.tiff
+  e404f89b1dc34b69af488cccae8656ea:
+    span:
+      start: 703957
+      end: 704985
+    imgnum: 642
+    reference: 20050642.tiff
+  a0bb35d0567f4c32894a1459bf3902b0:
+    span:
+      start: 704986
+      end: 706090
+    imgnum: 643
+    reference: 20050643.tiff
+  ad8ecbde57cb420f804e07817f5575b2:
+    span:
+      start: 706091
+      end: 707154
+    imgnum: 644
+    reference: 20050644.tiff
+  7e342844b8df4b8cb8920a2e4ac6d295:
+    span:
+      start: 707155
+      end: 708221
+    imgnum: 645
+    reference: 20050645.tiff
+  d144099f58944c14bc543b14986e1185:
+    span:
+      start: 708222
+      end: 709288
+    imgnum: 646
+    reference: 20050646.tiff
+  c2e802c012cb4c1c99f99c880678740a:
+    span:
+      start: 709289
+      end: 710349
+    imgnum: 647
+    reference: 20050647.tiff
+  5b3eaa4619bb42138921a266f583d5f9:
+    span:
+      start: 710350
+      end: 711457
+    imgnum: 648
+    reference: 20050648.tiff
+  da5531c0338e496bb96595fc3a3e3d6d:
+    span:
+      start: 711458
+      end: 712543
+    imgnum: 649
+    reference: 20050649.tiff
+  484716bd61a94a339ff60d010d7521cf:
+    span:
+      start: 712544
+      end: 713659
+    imgnum: 650
+    reference: 20050650.tiff
+  a37ae60a81794909a13793ca0ba94d02:
+    span:
+      start: 713660
+      end: 714717
+    imgnum: 651
+    reference: 20050651.tiff
+  10c8b31830e24a86a423c43b01061ce7:
+    span:
+      start: 714718
+      end: 715786
+    imgnum: 652
+    reference: 20050652.tiff
+  7280dcea58a9448dace24f6eccbcb192:
+    span:
+      start: 715787
+      end: 716891
+    imgnum: 653
+    reference: 20050653.tiff
+  636c9bacae7546a48521e46548d9e0a1:
+    span:
+      start: 716892
+      end: 718048
+    imgnum: 654
+    reference: 20050654.tiff
+  00ff64db11254a26baea0655c1aa8bb5:
+    span:
+      start: 718049
+      end: 719206
+    imgnum: 655
+    reference: 20050655.tiff
+  a97556dbfcb44241b1c54836128a59da:
+    span:
+      start: 719207
+      end: 720293
+    imgnum: 656
+    reference: 20050656.tiff
+  7688568e5e184368a60bed3ff9000243:
+    span:
+      start: 720294
+      end: 721486
+    imgnum: 657
+    reference: 20050657.tiff
+  3f76b2586a4f40dfbeb3badc5fccb82d:
+    span:
+      start: 721487
+      end: 722614
+    imgnum: 658
+    reference: 20050658.tiff
+  619774bba4194317894ff7ddccc60c6b:
+    span:
+      start: 722615
+      end: 723792
+    imgnum: 659
+    reference: 20050659.tiff
+  1b09dd3e2fcd46679d54e694974bdb7c:
+    span:
+      start: 723793
+      end: 724899
+    imgnum: 660
+    reference: 20050660.tiff
+  f9b4ad4435eb458bbab4045c5be4253f:
+    span:
+      start: 724900
+      end: 725941
+    imgnum: 661
+    reference: 20050661.tiff
+  e20aa5c1294d4730b51299f1e8403202:
+    span:
+      start: 725942
+      end: 727005
+    imgnum: 662
+    reference: 20050662.tiff
+  701ad0f7d3be4b50a8904752e3530656:
+    span:
+      start: 727006
+      end: 728100
+    imgnum: 663
+    reference: 20050663.tiff
+  b098a77c258c46dab3269219ccdf7896:
+    span:
+      start: 728101
+      end: 729166
+    imgnum: 664
+    reference: 20050664.tiff
+  ca78be0a92bf4da58c385542deb7729d:
+    span:
+      start: 729167
+      end: 730305
+    imgnum: 665
+    reference: 20050665.tiff
+  3c05507135244a8b928700f3eeb540ba:
+    span:
+      start: 730306
+      end: 731348
+    imgnum: 666
+    reference: 20050666.tiff
+  708e3305a4a74f95889df3142d39c8b5:
+    span:
+      start: 731349
+      end: 732402
+    imgnum: 667
+    reference: 20050667.tiff
+  2d8e8e081c1c43aab7a08a20d77c352b:
+    span:
+      start: 732403
+      end: 733494
+    imgnum: 668
+    reference: 20050668.tiff
+  8004b83f331d4d60a19f22a976c2d2fd:
+    span:
+      start: 733495
+      end: 734609
+    imgnum: 669
+    reference: 20050669.tiff
+  464953bd77ac423b8146fd84fc5ebf86:
+    span:
+      start: 734610
+      end: 735688
+    imgnum: 670
+    reference: 20050670.tiff
+  cb9c2c7b9b434f96b946b27951c21abc:
+    span:
+      start: 735689
+      end: 736786
+    imgnum: 671
+    reference: 20050671.tiff
+  3b77dd0eeb9b4e24aa19f12caeeb4a90:
+    span:
+      start: 736787
+      end: 737973
+    imgnum: 672
+    reference: 20050672.tiff
+  5f8bc98609544b40a677d538fdc2578a:
+    span:
+      start: 737974
+      end: 739130
+    imgnum: 673
+    reference: 20050673.tiff
+  1a1a8a31fb5f477898dc82248d23c74c:
+    span:
+      start: 739131
+      end: 740157
+    imgnum: 674
+    reference: 20050674.tiff
+  4f507c6b1b9d4963932f82703be24115:
+    span:
+      start: 740158
+      end: 741214
+    imgnum: 675
+    reference: 20050675.tiff
+  32d21f863ae84db6a8ba06ae361f1634:
+    span:
+      start: 741215
+      end: 742214
+    imgnum: 676
+    reference: 20050676.tiff
+  910c720dad8b4d85992df241af1044ba:
+    span:
+      start: 742215
+      end: 743235
+    imgnum: 677
+    reference: 20050677.tiff
+  a6f95ae17845404195881d26a5838bf7:
+    span:
+      start: 743236
+      end: 744264
+    imgnum: 678
+    reference: 20050678.tiff
+  93ec3ef5944744c78e29c9c43899e887:
+    span:
+      start: 744265
+      end: 745302
+    imgnum: 679
+    reference: 20050679.tiff
+  4d2113b857e24d5caebcd5ccb0c3ac47:
+    span:
+      start: 745303
+      end: 746380
+    imgnum: 680
+    reference: 20050680.tiff
+  ab88ea807de8494981db843807ed74dd:
+    span:
+      start: 746381
+      end: 747410
+    imgnum: 681
+    reference: 20050681.tiff
+  a2cfbff48cab4b029f8bc259fd71cb62:
+    span:
+      start: 747411
+      end: 748437
+    imgnum: 682
+    reference: 20050682.tiff
+  55f2f5b4b9114952b8a215f4b25098ba:
+    span:
+      start: 748438
+      end: 749489
+    imgnum: 683
+    reference: 20050683.tiff
+  98983b350508468494ddc810a37347b0:
+    span:
+      start: 749490
+      end: 750666
+    imgnum: 684
+    reference: 20050684.tiff
+  c0730c3360114c56b5d0e4eea7792b48:
+    span:
+      start: 750667
+      end: 751743
+    imgnum: 685
+    reference: 20050685.tiff
+  a6809f4b5fb54003ac88a45f2c84fc32:
+    span:
+      start: 751744
+      end: 752819
+    imgnum: 686
+    reference: 20050686.tiff
+  09972c644223467eb807815f2d6dc7e0:
+    span:
+      start: 752820
+      end: 753920
+    imgnum: 687
+    reference: 20050687.tiff
+  e818a5b54990440ea14bc2624892f363:
+    span:
+      start: 753921
+      end: 755003
+    imgnum: 688
+    reference: 20050688.tiff
+  7b4e23f4ee01432ea0cda44ffc0ea303:
+    span:
+      start: 755004
+      end: 756057
+    imgnum: 689
+    reference: 20050689.tiff
+  cf4350280f094b3dabed3dc525cf4b81:
+    span:
+      start: 756058
+      end: 757053
+    imgnum: 690
+    reference: 20050690.tiff
+  af2d04bfa3d449c6b85dd8c5627f0ac3:
+    span:
+      start: 757054
+      end: 758105
+    imgnum: 691
+    reference: 20050691.tiff
+  7d42aea5f1914b87843f84e7c708c9eb:
+    span:
+      start: 758106
+      end: 759213
+    imgnum: 692
+    reference: 20050692.tiff
+  a10ba64fffbd4effa15d82ed38d99dd4:
+    span:
+      start: 759214
+      end: 760270
+    imgnum: 693
+    reference: 20050693.tiff
+  b465ad500fb5465dbafe207d41ae1ed0:
+    span:
+      start: 760271
+      end: 761346
+    imgnum: 694
+    reference: 20050694.tiff
+  0a44329ce1204263b450dea9a1a7b4e3:
+    span:
+      start: 761347
+      end: 762400
+    imgnum: 695
+    reference: 20050695.tiff
+  e423a29244014e519e4f23e376c1f983:
+    span:
+      start: 762401
+      end: 763403
+    imgnum: 696
+    reference: 20050696.tiff
+  3e5b040e015f4c87b7e511d24d13673c:
+    span:
+      start: 763404
+      end: 764391
+    imgnum: 697
+    reference: 20050697.tiff
+  2b78be4293a944f2855bac2295063623:
+    span:
+      start: 764392
+      end: 765418
+    imgnum: 698
+    reference: 20050698.tiff
+  2910d42e149041188bb1d6ed5cdabadc:
+    span:
+      start: 765419
+      end: 766532
+    imgnum: 699
+    reference: 20050699.tiff
+  c87d8d401d674dcd918f6fdf848f26a3:
+    span:
+      start: 766533
+      end: 767648
+    imgnum: 700
+    reference: 20050700.tiff
+  fe36471b68e943b495817222f37a6a53:
+    span:
+      start: 767649
+      end: 768762
+    imgnum: 701
+    reference: 20050701.tiff
+  505426acbf1c4fefa5dddc9452d2231f:
+    span:
+      start: 768763
+      end: 769831
+    imgnum: 702
+    reference: 20050702.tiff
+  8c442fba8090465db6f2f506768bdcf1:
+    span:
+      start: 769832
+      end: 770948
+    imgnum: 703
+    reference: 20050703.tiff
+  acff572cd62d4bf39c10fbd68712c628:
+    span:
+      start: 770949
+      end: 772044
+    imgnum: 704
+    reference: 20050704.tiff
+  1ff5e4bf891c44d1ab4638d242f30ac8:
+    span:
+      start: 772045
+      end: 773178
+    imgnum: 705
+    reference: 20050705.tiff
+  4f2168469f3f494cbc3f67aac899004f:
+    span:
+      start: 773179
+      end: 774270
+    imgnum: 706
+    reference: 20050706.tiff
+  17f4d83120344779a389500326aa1b54:
+    span:
+      start: 774271
+      end: 775367
+    imgnum: 707
+    reference: 20050707.tiff
+  aedf0325340847a09c1e3e9595d14d65:
+    span:
+      start: 775368
+      end: 776482
+    imgnum: 708
+    reference: 20050708.tiff
+  3431ebb56dbb4c7d9cf84424f270aeed:
+    span:
+      start: 776483
+      end: 777573
+    imgnum: 709
+    reference: 20050709.tiff
+  741f053a3204446295f5de4f690e5d41:
+    span:
+      start: 777574
+      end: 778684
+    imgnum: 710
+    reference: 20050710.tiff
+  5afe2cf29a154ceaab757bb3cb01d709:
+    span:
+      start: 778685
+      end: 779866
+    imgnum: 711
+    reference: 20050711.tiff
+  59dd6d4bc8da47829e19f101f3a1ad6a:
+    span:
+      start: 779867
+      end: 780889
+    imgnum: 712
+    reference: 20050712.tiff
+  927bbf87b8834cdbbafa515db2b146c2:
+    span:
+      start: 780890
+      end: 781895
+    imgnum: 713
+    reference: 20050713.tiff
+  c2b8d378463945108e7712d61af2ac02:
+    span:
+      start: 781896
+      end: 782937
+    imgnum: 714
+    reference: 20050714.tiff
+  af74c1c437e44644a7e7e0b72a01938f:
+    span:
+      start: 782938
+      end: 783956
+    imgnum: 715
+    reference: 20050715.tiff
+  95746713e0ed4ac888cbb5504f27d964:
+    span:
+      start: 783957
+      end: 785030
+    imgnum: 716
+    reference: 20050716.tiff
+  ed41132914594e71bdd03350f519643d:
+    span:
+      start: 785031
+      end: 786092
+    imgnum: 717
+    reference: 20050717.tiff
+  bec6ce42f57d4afeaacaa9d79bac657f:
+    span:
+      start: 786093
+      end: 787187
+    imgnum: 718
+    reference: 20050718.tiff
+  3dfb25388e93452ea2def96af6e2b2aa:
+    span:
+      start: 787188
+      end: 788218
+    imgnum: 719
+    reference: 20050719.tiff
+  37f84c6d1eae41a7ba3a70dc2f775532:
+    span:
+      start: 788219
+      end: 789323
+    imgnum: 720
+    reference: 20050720.tiff
+  02e4a70cf48e4fe8ac718751315a02e4:
+    span:
+      start: 789324
+      end: 790350
+    imgnum: 721
+    reference: 20050721.tiff
+  75410e7bba3241f5a671920c2eab3f16:
+    span:
+      start: 790351
+      end: 791404
+    imgnum: 722
+    reference: 20050722.tiff
+  90eff02234d24d1ba9e72874a1427eee:
+    span:
+      start: 791405
+      end: 792467
+    imgnum: 723
+    reference: 20050723.tiff
+  dedaf679484c40cbac32737ad1e244ed:
+    span:
+      start: 792468
+      end: 793542
+    imgnum: 724
+    reference: 20050724.tiff
+  bbf16287a0e54b59bdec6c332d0cb16d:
+    span:
+      start: 793543
+      end: 794641
+    imgnum: 725
+    reference: 20050725.tiff
+  047f4c156f9a4d00a841cf2f2d3d825c:
+    span:
+      start: 794642
+      end: 795805
+    imgnum: 726
+    reference: 20050726.tiff
+  c698afd4984243689bdeb8a8b4e7b1b9:
+    span:
+      start: 795806
+      end: 796985
+    imgnum: 727
+    reference: 20050727.tiff
+  7b0237f4b6e54f739136b65d0a8a0722:
+    span:
+      start: 796986
+      end: 798119
+    imgnum: 728
+    reference: 20050728.tiff
+  d81b346a49bb453490f7aec5735913b4:
+    span:
+      start: 798120
+      end: 799176
+    imgnum: 729
+    reference: 20050729.tiff
+  c46e9e3c28ea443bb44fbc3e7a31b1c1:
+    span:
+      start: 799177
+      end: 800174
+    imgnum: 730
+    reference: 20050730.tiff
+  2002e3b86f004fd597bdcaea35ef187a:
+    span:
+      start: 800175
+      end: 801212
+    imgnum: 731
+    reference: 20050731.tiff
+  a7c40e0e823a4696815475f1379f66b8:
+    span:
+      start: 801213
+      end: 802305
+    imgnum: 732
+    reference: 20050732.tiff
+  b505d639248a4c99a8d0c0c3abf95a55:
+    span:
+      start: 802306
+      end: 803393
+    imgnum: 733
+    reference: 20050733.tiff
+  948e3479bda24fb0b31dd5dfb30385b7:
+    span:
+      start: 803394
+      end: 804493
+    imgnum: 734
+    reference: 20050734.tiff
+  16cde8b4ae4549f7ac2c90f07216f9d4:
+    span:
+      start: 804494
+      end: 805634
+    imgnum: 735
+    reference: 20050735.tiff
+  1c1e4ce0f0ee4c5bbfe76dfe1c784d62:
+    span:
+      start: 805635
+      end: 806770
+    imgnum: 736
+    reference: 20050736.tiff
+  4338f625cdb747ef85558f20dc9a65a8:
+    span:
+      start: 806771
+      end: 807932
+    imgnum: 737
+    reference: 20050737.tiff
+  42965dd3ae4e4bfa85b444c0d5f3cca4:
+    span:
+      start: 807933
+      end: 809031
+    imgnum: 738
+    reference: 20050738.tiff
+  0c341bb00c6544f89994b98f97840c52:
+    span:
+      start: 809032
+      end: 810232
+    imgnum: 739
+    reference: 20050739.tiff
+  a4f514c87b75481dbcd5b4a4c781aac9:
+    span:
+      start: 810233
+      end: 811328
+    imgnum: 740
+    reference: 20050740.tiff
+  43b204bc92674719ade05c3d0d049d74:
+    span:
+      start: 811329
+      end: 812382
+    imgnum: 741
+    reference: 20050741.tiff
+  9c4fd4bfe2a94bfb88b5e444b062c877:
+    span:
+      start: 812383
+      end: 813471
+    imgnum: 742
+    reference: 20050742.tiff
+  38705146f8a74484bd28721c77e53a37:
+    span:
+      start: 813472
+      end: 814517
+    imgnum: 743
+    reference: 20050743.tiff
+  70e4f69cbbef4bf8aab9ca38ecaf88fe:
+    span:
+      start: 814518
+      end: 815614
+    imgnum: 744
+    reference: 20050744.tiff
+  cd75f6f176724fa39b5e56aa173ff9ba:
+    span:
+      start: 815615
+      end: 816700
+    imgnum: 745
+    reference: 20050745.tiff
+  b8a0ccd9a56743abae6a8e00a07548ff:
+    span:
+      start: 816701
+      end: 817801
+    imgnum: 746
+    reference: 20050746.tiff
+  1ac37c383a5a4e478ff7d99c5c517944:
+    span:
+      start: 817802
+      end: 818908
+    imgnum: 747
+    reference: 20050747.tiff
+  b653fa6380304f469978b14ef45180b0:
+    span:
+      start: 818909
+      end: 820017
+    imgnum: 748
+    reference: 20050748.tiff
+  6336c05e8e81453a879c169c6825a58f:
+    span:
+      start: 820018
+      end: 821074
+    imgnum: 749
+    reference: 20050749.tiff
+  bda0c0ded27149bb8ca67669fdbe711d:
+    span:
+      start: 821075
+      end: 822131
+    imgnum: 750
+    reference: 20050750.tiff
+  2b44c21ed731417db866cf9e8d071eff:
+    span:
+      start: 822132
+      end: 823198
+    imgnum: 751
+    reference: 20050751.tiff
+  202baa059948484b8d31e1e67b0ad1be:
+    span:
+      start: 823199
+      end: 824229
+    imgnum: 752
+    reference: 20050752.tiff
+  88a82a80c60e4299ae698e00e7c6920b:
+    span:
+      start: 824230
+      end: 825297
+    imgnum: 753
+    reference: 20050753.tiff
+  43c09b430b81472dba9ea25b4b6ca3ed:
+    span:
+      start: 825298
+      end: 826362
+    imgnum: 754
+    reference: 20050754.tiff
+  9e1b5aad544941138cb2ac838388a515:
+    span:
+      start: 826363
+      end: 827417
+    imgnum: 755
+    reference: 20050755.tiff
+  f90c823a39ba498b8483f4000c87eff6:
+    span:
+      start: 827418
+      end: 828478
+    imgnum: 756
+    reference: 20050756.tiff
+  689ea314bd014e94be625142b3cf299e:
+    span:
+      start: 828479
+      end: 829558
+    imgnum: 757
+    reference: 20050757.tiff
+  1314671e09ed4b3d8abdcdf96d9b2968:
+    span:
+      start: 829559
+      end: 830608
+    imgnum: 758
+    reference: 20050758.tiff
+  fdfee4c0eda146a78c9463a76a6bb2d2:
+    span:
+      start: 830609
+      end: 831715
+    imgnum: 759
+    reference: 20050759.tiff
+  956abe760f23498e8c55a31a49b5ebf1:
+    span:
+      start: 831716
+      end: 832770
+    imgnum: 760
+    reference: 20050760.tiff
+  87e2743033c7451fbb44d31903e5e5c9:
+    span:
+      start: 832771
+      end: 833835
+    imgnum: 761
+    reference: 20050761.tiff
+  0d78936b206c423496f5520e3ab6ee4c:
+    span:
+      start: 833836
+      end: 834229
+    imgnum: 762
+    reference: 20050762.tiff
+  70e5c2cca65a4c5c973036f897b7c970:
+    span:
+      start: 834230
+      end: 835030
+    imgnum: 763
+    reference: 20050763.tiff
+  59f17d5ba64f4cd09ecdadeb7ac21164:
+    span:
+      start: 835031
+      end: 836749
+    imgnum: 764
+    reference: 20050764.tiff
+  2cc0eaff385d49f489404db99dc67c69:
+    span:
+      start: 836750
+      end: 837601
+    imgnum: 765
+    reference: 20050765.tiff
